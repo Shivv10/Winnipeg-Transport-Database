@@ -1,0 +1,5786 @@
+StreetID, Street Name
+1,Enniskillen Ave
+2,Lagimodiere Blvd
+3,Burrows Ave
+4,Donan St
+5,Lansdowne Ave
+6,Ellice Ave
+7,Provencher Bridge
+8,Kenaston Blvd
+9,Tinniswood St
+10,King Edward St
+11,Grant Ave
+12,Leahcrest Cres
+13,Kingston Row
+14,Watson St
+15,Hurst Way
+16,McAdam Ave
+17,Isabel St
+18,Norwood Bridge
+19,Edderton Ave
+20,Redwood Ave
+21,Birch Gr
+22,Nairn Ave
+23,Arlington St
+24,Radcliffe Rd
+25,Beaumont St
+26,Wolseley Ave
+27,Fort Garry Bridge
+28,Spruce St
+29,Broadway
+30,Laxdal Rd
+31,Lodge Ave
+32,Notre Dame Ave
+33,Mapleglen Dr
+34,Louise Bridge
+35,Penfold Cres
+36,St Matthews Ave
+37,Oak St
+38,Springfield Rd
+39,Midwinter Ave
+40,Concordia Ave E
+41,Cormorant Bay
+42,Bond St
+43,Clifton St
+44,Pipeline Rd
+45,Birchdale Ave
+46,Rosedale Ave
+47,Osborne Bridge
+48,Atwood St
+49,Jefferson Ave
+50,St Jean Baptiste St
+51,Bridgeland Dr N
+52,Peguis St
+53,Kildare Ave W
+54,Gateway Rd
+55,Cumberland Ave
+56,River Rd
+57,Hawkins Cres
+58,Hay St
+59,Kilkenny Dr
+60,Dale Blvd
+61,Assiniboine Ave
+62,Rathgar Ave
+63,Keewatin St
+64,Main St
+65,Redwood Bridge
+66,Ranchgrove Bay
+67,Shelley St
+68,Waverley St
+69,Bison Dr
+70,Rover Ave
+71,Waterford Ave
+72,Slaw Rebchuk Bridge
+73,Hamilton Ave
+74,Prairie Crocus Dr
+75,De Vries Ave
+76,Cambridge St
+77,Hosmer Blvd
+78,Warde Ave
+79,Strathcona St
+80,Brady Rd
+81,Beaverhill Blvd
+82,Alexander Ave
+83,William Ave
+84,Grassie Blvd
+85,York Ave
+86,St Vital Bridge
+87,Wilkes Ave
+88,Balmoral St
+89,Marrington Rd
+90,Logan Ave
+91,Chancellor Dr
+92,Silverstone Ave
+93,Archibald St
+94,Lindsay St
+95,St Mary's Rd
+96,Haney St
+97,Aldgate Rd
+98,Sage Creek Blvd
+99,Henderson Hwy
+100,Britannica Rd
+101,Lee Blvd
+102,McPhillips St
+103,Machray Ave
+104,Van Hull Way
+105,Daly St S
+106,Empress St
+107,Portage Ave
+108,Bridgeway Cres
+109,Dussault Ave
+110,Summit Rd
+111,West Perimeter Bridge
+112,Sharp Blvd
+113,Warsaw Ave
+114,St Vital Rd
+115,Morley Ave
+116,Roblin Blvd
+117,Harper Ave
+118,Academy Rd
+119,Regent Ave W
+120,PR 221
+121,Pioneer Ave
+122,St Anne's Rd
+123,Bishop Grandin Underpass
+124,Pearce Ave
+125,PR 204
+126,Sterling Lyon Pkwy
+127,Roslyn Rd
+128,Fermor Ave
+129,Polson Ave
+130,Bannatyne Ave W
+131,Pembina Hwy
+132,Irving Pl
+133,Beliveau Rd
+134,PTH 6
+135,Charleswood Bridge
+136,John Duncan Dr
+137,McGillivray Blvd
+138,Novavista Dr
+139,Hawstead Rd
+140,Red River Blvd
+141,Karen St
+142,Templeton Ave
+143,Speers Rd
+144,Buckingham Rd
+145,PTH 1
+146,Powers St
+147,Santa Fe Dr
+148,Inkster Blvd
+149,Dr. Jose Rizal Way
+150,Cathedrale Ave
+151,Dakota St
+152,Jessie Ave
+153,Kingsway
+154,Cathedral Ave
+155,Kenny St
+156,Westminster Ave
+157,Main Street Bridge
+158,Elm St
+159,Leila Ave
+160,Saratoga Cres
+161,Banning St
+162,Taylor Ave
+163,Cullen Dr
+164,Grey St
+165,Selkirk Ave
+166,Patricia Ave
+167,Cockburn St S
+168,Ness Ave
+169,Silver Ave
+170,Riel Ave
+171,Plessis Rd
+172,Molson St
+173,Walker Ave
+174,Beresford Ave
+175,Woodbine Ave
+176,Keslar Rd
+177,Yale Ave
+178,Kirlystone Wy
+179,Plaza Dr
+180,Roch St
+181,Minnetonka St
+182,Centennial St
+183,Deerhorn Ln
+184,Lindenwood Dr W
+185,Elmhurst Rd
+186,Beverley St
+187,PTH 9
+188,Crestview Park Dr
+189,Eccles St
+190,Murray Ave
+191,Riverbend Ave
+192,Wilton Bay
+193,Wiginton St
+194,Dalhousie Dr
+195,Kingsford Ave
+196,Sherbrook St
+197,Ravenhurst St
+198,Maryland Bridge NB
+199,Norberry Dr
+200,Lakewood Blvd
+201,Swinford Way
+202,Cathcart St
+203,Hugo St S
+204,Adsum Dr
+205,St James Bridge SB
+206,Moray St
+207,Regent Ave E
+208,Waterfront Rd
+209,Princess St
+210,Lamont Blvd
+211,Scotia St
+212,Greenbrier Ave
+213,Salter St
+214,Stafford St
+215,Park Blvd  S
+216,Sargent Ave
+217,Henry Ave
+218,Dugald Rd
+219,Overwater Cv
+220,Wellington Cres
+221,School Rd
+222,Dollard Blvd
+223,Kendale Dr
+224,Midtown Bridge
+225,Transcona Blvd
+226,Grosvenor Ave
+227,Westmount Dr
+228,Mollard Rd
+229,Shorehill Dr
+230,Stella Ave
+231,McCreary Rd
+232,Disraeli Bridge
+233,Mountain Ave
+234,Killarney St
+235,Munroe Ave
+236,Kildonan Settlers Bridge
+237,Penrose Pl
+238,Dunham St
+239,Royal Mint Dr
+240,PTH 3
+241,Kimberly Ave
+242,Portside Dr
+243,Saulteaux Cres
+244,St James Bridge NB
+245,Wilton St
+246,Dublin Ave
+247,McGregor St
+248,Burnell St
+249,Century St
+250,Charleswood Rd
+251,Lanark St
+252,Robindale Rd
+253,Neville St
+254,Chief Peguis Trail
+255,Day St
+256,Bishop Grandin Blvd
+257,Dumoulin St
+258,Walmer St
+259,PTH 15
+260,Guelph St
+261,Victoria Cres
+262,Ramp Academy WB to St James Bridge NB
+263,Corydon Ave
+264,Wellington Ave
+265,Smithfield Ave
+266,William Stephenson Way
+267,Maryland Bridge SB
+268,Notre Dame St
+269,Youville St
+270,Yanofsky Wy
+271,Beaverbrook St
+272,De La Digue Ave
+273,Waterfront Dr
+274,Mathers Ave
+275,Bertrand St
+276,St James St
+277,Air Force Wy
+278,Ainslie St
+279,Pickley Cres
+280,Whitley Dr
+281,Alpine Ave
+282,Hood Ave
+283,Stefanie Dr
+284,Partridge Ave
+285,Aulneau St
+286,Forbes Rd
+287,Pepperloaf Cres
+288,Baltimore Rd
+289,Sardelle Cres
+290,Elizabeth Rd
+291,Harrow St
+292,Marion St
+293,Brock St
+294,St Cross St
+295,Reenders Dr
+296,McLeod Ave
+297,Bridge Lake Dr
+298,St Elmo Rd
+299,Ridgecrest Ave
+300,River Ave
+301,Time Sale Dr
+302,Fernwood Ave
+303,Leola St
+304,South Perimeter Bridge
+305,Burnside Wy
+306,Oakenwald Ave
+307,Garton Ave
+308,Niakwa Rd
+309,Windermere Ave
+310,Meadowood Dr
+311,Benn Ave
+312,Municipal Rd
+313,Frobisher Rd
+314,PTH 7
+315,Osborne St
+316,Nassau St S
+317,Royal York Dr
+318,Cloutier Dr
+319,Chornick Dr
+320,Evanson St
+321,Flora Ave
+322,St Mary Ave
+323,Edmonton St
+324,Erin St
+325,Osborne St N
+326,Inglewood St
+327,Bourkevale Dr
+328,Kernaghan Ave
+329,Nathaniel St
+330,Rivergrove Dr
+331,Pasadena Ave
+332,Aberdeen Ave
+333,Lochmoor Ave
+334,Disraeli Fwy
+335,Ramp St James Bridge SB to Academy EB
+336,Cottonwood Rd
+337,Kylemore Ave
+338,Point West Dr
+339,Provencher Blvd
+340,King St
+341,Ruskin Row
+342,Waterford Bay
+343,Tyndall Ave
+344,Shaftesbury Blvd
+345,Symington Rd
+346,Lyndale Dr
+347,Furby St
+348,Sherburn St
+349,Parkhill St
+350,Gertrude Ave
+351,Des Trappistes St
+352,Dufferin Ave
+353,Trinity St
+354,Sturgeon Rd
+355,Riverside Dr
+356,McDermot Ave
+357,Sinclair St
+358,Carsdale Dr
+359,Argate Dr
+360,Border St
+361,Arthur Wright Cres
+362,Sansome Ave
+363,Kingsbury Ave
+364,Montrose St
+365,Almey Ave
+366,Island Shore Blvd
+367,Winakwa Rd
+368,Watt St
+369,Ross Ave
+370,Newman St
+371,Community Row
+372,PTH 190
+373,Shaughnessy St
+374,Tache Ave
+375,Rockman St
+376,Berkley St
+377,Empress St E
+378,Burmac Rd
+379,OTHER
+380,Snow St
+381,Johnson Ave W
+382,Worthington Ave
+383,Fairfield Ave
+384,Kebir Pl
+385,Cambie Rd
+386,Montvale Cres
+387,William R. Clement Pkwy
+388,Tim Sale Dr
+389,Brandon Ave
+390,Fairmont Rd
+391,Scurfield Blvd
+392,Enfield Cres
+393,Park Blvd  N
+394,Edderton Bay
+395,Turenne St
+396,Noble Ave
+397,Lochinvar Ave
+398,Burning Glass Rd
+399,Kennedy St
+400,Saskatchewan Ave
+401,University Cres
+402,Oak Point Hwy
+403,Carmen Ave
+404,Scarfe St
+405,Markham Rd
+406,Setter St
+407,Ferry Rd
+408,Glenwood Cres
+409,Yardley St
+410,Lumsden Ave
+411,Lindenwood Dr E
+412,Higgins Ave
+413,Parker Ave
+414,Greenwood Ave
+415,Talbot Ave
+416,Pacific Ave W
+417,Grantsmuir Dr
+418,Marymound Way
+419,Knowles Ave
+420,Bethray Bay
+421,Borebank St
+422,Fraser Rd
+423,Balfour Ave
+424,Ramp Kingston to Dunkirk SB
+425,Home St
+426,Dominion St
+427,Carlaw Ave
+428,Poseidon Bay
+429,Kirkbridge Dr
+430,Amberstone Rd
+431,Hawthorne Ave
+432,Buxton Rd
+433,Langside St
+434,Ravelston Ave W
+435,Wardlaw Ave
+436,Portsmouth Blvd
+437,Gunn Rd
+438,Grandmont Blvd
+439,McKenzie St
+440,Arthur St
+441,Brazier St
+442,Moberly Ave
+443,Horace St
+444,Wayoata St
+445,PTH 2
+446,Headmaster Row
+447,Capston Rd
+448,Armstrong Ave
+449,Amber Tl
+450,Chancellor Matheson Rd
+451,Beiko Ave
+452,Pandora Ave E
+453,Redonda St
+454,Kelvin Blvd
+455,Margate Rd
+456,Linwood St
+457,Rice Rd
+458,Raleigh St
+459,PR 241
+460,Liberty St
+461,Imperial Ave
+462,Continental Ave
+463,Maryland St
+464,Holden Ave
+465,Sadler Ave
+466,Dingle St
+467,Al Thompson Dr
+468,Gull Lake Rd
+469,PR 427
+470,Rose Hill Wy
+471,Highfield St
+472,Westbrook St
+473,Ord St
+474,Rothesay St
+475,Guilbault St
+476,Smith St
+477,Spence St
+478,Marbury Rd
+479,Niagara St
+480,Donald St
+481,Strasbourg Dr
+482,PTH 59
+483,North Town Rd
+484,Hindley Ave
+485,Madeline St
+486,Des Meurons St
+487,Jolliett Cres
+488,Collegiate St
+489,Endcliffe Pl
+490,Ash St
+491,Stradbrook Ave
+492,Pebble Beach Rd
+493,De Leglise Ave
+494,Cordova St
+495,Eugenie St
+496,Berry St
+497,Gamble Pl
+498,Storie Rd
+499,Glenlawn Ave
+500,Vimy Rd
+501,Harbison Ave W
+502,Brookside Blvd
+503,Basswood Pl
+504,Martin Ave W
+505,Point Rd
+506,Churchill Dr
+507,PR 425
+508,PTH 8
+509,Stadacona St
+510,Palk Rd
+511,Riveroaks Dr
+512,Woodydell Ave
+513,Portage Ave E
+514,Lemay Ave
+515,Redview Dr
+516,Manitoba Ave
+517,Tuxedo Ave
+518,West Fernwood Ave
+519,Hargrave St
+520,Huber St
+521,Colony St
+522,Alburg Dr
+523,Ritchie St
+524,Queenston St
+525,St Vital Park West Entrance
+526,Somerset Ave
+527,Meadowbrook Rd
+528,Wall St
+529,North Dr
+530,Memorial Blvd
+531,Cobourg Ave
+532,Oakwood Ave
+533,Goulet St
+534,Lilac St
+535,Bournais Dr
+536,Marigold Bay
+537,Mayfair Ave
+538,Edgewater Dr
+539,Weston St
+540,Magnus Ave
+541,Ramp Pembina SB to Bishop Grandin WB
+542,Jubilee Ave
+543,Rutland St
+544,Wellington Cres S
+545,Landry St
+546,Valour Rd
+547,Southwood Ave
+548,Hansford Rd
+549,Lincoln Ave
+550,Mission St
+551,Woodlawn Ave
+552,Chataway Blvd
+553,Kingsborough Dr
+554,Betsworth Ave
+555,Winona St
+556,Halparin Dr
+557,Ramp Pembina SB to Bishop Grandin EB
+558,Branson Cres
+559,Sherwin Rd
+560,Bairdmore Blvd
+561,Arthur Wright Wy
+562,Harvard Ave
+563,Simpson Ave
+564,Rose Lake Ct
+565,Charing Cross Cres
+566,Foxdale Ave
+567,Bannatyne Ave
+568,Elgin Ave W
+569,Flint St
+570,Blenheim Ave
+571,Hoka St
+572,Clouston Dr
+573,Valley View Dr
+574,Henlow Bay
+575,Thibault St
+576,Oakland Ave
+577,Ramp Dunkirk SB to Kingston
+578,Prairie Grove Rd
+579,Southside Dr
+580,Hart Ave
+581,Cuthbertson Ave
+582,Wharton Blvd
+583,Renfrew St
+584,Albert St
+585,Wynford Dr
+586,Beecher Ave
+587,Frank St
+588,William Ave W
+589,Ramp Pembina NB to Bishop Grandin EB
+590,Vermillion Rd
+591,Dorset St
+592,Cavalier Dr
+593,Dalton Cr
+594,Logan Av
+595,Burland Av
+596,McLellan Dr
+597,Mapleton Dr
+598,Portage Av E
+599,Island Shore Bv
+600,Margaret Av
+601,Portage Av
+602,McLeod Av
+603,Dartmouth Dr
+604,Grant Av
+605,Wellington Av
+606,Mount Royal Cr
+607,Graham Av
+608,Concordia Av
+609,Corydon Av
+610,Bedson St
+611,Roblin Bv
+612,Lumsden Av
+613,Grassie Bv
+614,Templeton Av
+615,Saint Anne's Rd
+616,Stanley St
+617,Mandalay Dr
+618,Notre Dame Av
+619,Ness Av
+620,Scurfield Bv
+621,Stradbrook Av
+622,Mountain Av
+623,Ragsdill Rd
+624,Kenaston Bv
+625,Ellice Av
+626,Atlantic Av
+627,Fort St
+628,Innovation Dr
+629,Kildare Av W
+630,Dale Bv
+631,Higgins Av
+632,Kings Dr
+633,Beaverhill Bv
+634,University Cr
+635,Southbound Swest Transitway at Osborne Station
+636,Sargent Av
+637,Saint Mary’s Rd
+638,Edison Av
+639,Jefferson Av
+640,Knowles Av
+641,Saint James St
+642,Windermere Av
+643,Munroe Av
+644,John Forsyth Rd
+645,Baylor Av
+646,Lagimodiere Bv
+647,Warsaw Av
+648,Edgeland Bv
+649,Chevrier Bv
+650,Burrows Av
+651,Victoria Av E
+652,Gilmore Av
+653,Stapon Rd
+654,Rannock Av
+655,Inkster Bv
+656,Kintyre St
+657,Kildare Av E
+658,William Av
+659,Sutton Av
+660,London St
+661,Nairn Av
+662,Paterson St
+663,Emerson Av
+664,Rouge Rd
+665,Leila Av
+666,McDermot Av
+667,Awasisak Meskanow
+668,Sanford Fleming Rd
+669,Manitoba Av
+670,Lowson Cr
+671,Seel Av
+672,Rathgar Av
+673,Ducharme Av
+674,Southbound Swest Transitway at Harkness Station
+675,Garton Av
+676,Betournay St
+677,Fennell St
+678,Fermor Av
+679,Church Av
+680,Regent Av E
+681,Bowman Av
+682,Louelda St
+683,Abinojii Mikanah
+684,Saint Mary Av
+685,St Pierre St
+686,Paddington Rd
+687,Forks Market Rd
+688,Tuxedo Av
+689,Provencher Bv
+690,Memorial Bv
+691,Sandusky Dr
+692,Plinguet St
+693,McGillivray Bv
+694,Regent Av W
+695,Hamilton Av
+696,Autumnwood Dr
+697,Silverstone Av
+698,Arbuthnot St
+699,De Bourmont Av
+700,Killarney Av
+701,Lakewood Bv
+702,Dovercourt Dr
+703,Clarence Av
+704,Cairnsmore St
+705,Selkirk Av
+706,Dexter St
+707,Falcon Ridge Dr
+708,Egesz St
+709,Panet Rd
+710,Wilkes Av
+711,Lee Bv
+712,Rougeau Av
+713,Winnipeg Skywalk
+714,Fife St
+715,Bairdmore Bv
+716,Pandora Av W
+717,Strauss Dr
+718,Cathedral Av
+719,Columbia Dr
+720,Saint Mary's Rd
+721,Dafoe Rd
+722,Donwood Dr
+723,Brentlawn Bv
+724,Grosvenor Av
+725,John Angus Dr
+726,Pandora Av E
+727,River Av
+728,Dunkirk Dr
+729,Wales Av
+730,Saint Charles St
+731,Riel Av
+732,Flight Rd
+733,Dufferin Av
+734,Buchanan Bv
+735,Fleet Av
+736,Lake Fall Place
+737,Drake Bv
+738,Prosper St
+739,Parker Av
+740,Crane Av
+741,Otter St
+742,Ashworth St
+743,De l’Église Av
+744,Concordia Av E
+745,Roseberry St
+746,Union Av W
+747,Highbury Rd
+748,Bridgeland Dr S
+749,South Dr
+750,Brunswick St
+751,Taylor Av
+752,Taché Av
+753,Kildonan Meadow Dr
+754,Red River Bv W
+755,Carrière Av
+756,Talbot Av
+757,Westminster Av
+758,Garden Park Dr
+759,Grandmont Bv
+760,Mcmeans Av E
+761,Allan Blye Dr
+762,Court Av
+763,Durand Rd
+764,Paquin Rd
+765,Brookside Bv
+766,Vaughan St
+767,Bannatyne Av
+768,Webb Place
+769,Creek Bend Rd
+770,Hespeler Av
+771,Aubert St
+772,Garry St
+773,Amber Trail
+774,Minto St
+775,Awasisak Meskanow Greenway
+776,Pulberry St
+777,Queen Elizabeth Way
+778,Marguerite Rd
+779,Allendale Dr
+780,Sherwin Rd Pathway
+781,Granite Way
+782,Keenleyside St
+783,Tecumseh Bus Loop
+784,Aberdeen Av
+785,Seven Oaks Av
+786,Collingham Bay
+787,York Av
+788,Sutherland Av
+789,Carter Av
+790,McKellar Rd
+791,Castlebrook Dr
+792,Prevette St
+793,Wolseley Av
+794,Hollingsworth Av
+795,Harvard Av
+796,Wellington Cr
+797,Cavell Dr
+798,Speers Rd Multi-Use Path
+799,Partridge Av
+800,Pioneer Av
+801,Compark Rd
+802,Semple Av
+803,Magnus Av
+804,Southglen Bv
+805,Eldridge Av
+806,Euclid Av
+807,Arbour Meadow Gate
+808,Turnbull Dr
+809,Westway
+810,Georgina St
+811,Stella Av
+812,Market Av
+813,Nassau St N
+814,Kimberly Av
+815,Burnett Av
+816,Polson Av
+817,Jarvis Av
+818,Lemay Av
+819,Aubrey St
+820,Marshall Bay
+821,Avon Gate
+822,Felix Av
+823,Warde Av
+824,Chalmers Av
+825,Saint Mary's Rd;Trans-Canada Hwy
+826,Southbound Swest Transitway at Fort Rouge Station
+827,Fernbank Av
+828,Niverville Av
+829,Saturn Bay
+830,Inksbrook Dr
+831,Israel Asper Way
+832,Freedman Cr
+833,Quail Ridge Rd
+834,Sun Valley Dr
+835,Tyndall Av
+836,Oakenwald Av
+837,Dubuc St
+838,Commerce Dr
+839,Alfred Av
+840,Yeomans St
+841,Alloway Av
+842,Barnes St
+843,Whytewold Rd
+844,Booth Dr
+845,Government Av
+846,Le Maire St
+847,Island Lakes Dr
+848,Shaftesbury Bv
+849,Hugo St N
+850,Sydney Av
+851,Saint Matthews Av
+852,Haliburton Bay
+853,Moray St Pathway
+854,Daly St N
+855,Cr Dr
+856,Victor Lewis Dr
+857,De Vries Av
+858,Jubilee Av
+859,Pacific Av
+860,Transcona Bv
+861,Hartsdale Dr
+862,Chemin St. Anne's Rd
+863,Cote St
+864,Fairlane Av
+865,Saint Vital Rd
+866,Mayfair Av
+867,Terracon Place
+868,Wildwood Park Section D
+869,Agate Bay
+870,Morley Av
+871,Kernaghan Av
+872,Westwood Dr
+873,Trueman Walk
+874,Riverwood Av
+875,Quiring Bay
+876,Ronald St
+877,Edmund Gale Dr
+878,South Town Rd
+879,Despins St
+880,Lansdowne Av
+881,Golspie St
+882,Sterling Lyon Parkway
+883,Argue St
+884,Vince Leah Dr
+885,Oakwood Av
+886,Allard Av
+887,Lodge Av
+888,Ridgecrest Av
+889,Augier Av
+890,Mcmeans Av W
+891,Willowlake Cr
+892,Belmont Av
+893,Anderson Av
+894,Purdue Bay
+895,De La Seigneurie Bv
+896,Courtwood Place
+897,Danbury Bay
+898,Garden Rd
+899,Alpine Av
+900,Tecumseh St
+901,Dollard Bv
+902,Wardlaw Av
+903,Cree Cr
+904,Coral Cr
+905,Ross Av W
+906,Manila Rd
+907,Centre St
+908,Redwood Av
+909,Cumberland Av
+910,Eaglewood Dr
+911,Ambergate Dr
+912,Assiniboine Av
+913,Elgin Av W
+914,Elgin Av
+915,Thundering Bison Trail
+916,Windermere Bay
+917,Andrews St
+918,Annabella St
+919,Enniskillen Av
+920,Ashworth St S
+921,Devonshire Dr W
+922,Buffalo Place
+923,Red River Bv
+924,Normand Park Dr
+925,Sage Creek Bv
+926,Enfield Cr
+927,Saulteaux Cr
+928,Dublin Av
+929,St Joseph St
+930,Johnson Av W
+931,Newcroft Rd
+932,Research Rd
+933,Jessie Av
+934,Castle Av
+935,Simcoe St
+936,Blueberry Bay
+937,Kinver Av
+938,Ebby Av
+939,Desjardins Dr
+940,Tremblay St
+941,Carlton St
+942,Wynten Cr
+943,Deer Lodge Place
+944,Portwood Rd
+945,Whellams Lane
+946,East Mint Place
+947,Riverton Av
+948,Wallasey St
+949,Alex Taylor Dr
+950,Dawson Rd N
+951,Cecil St
+952,Maginot St
+953,Boyd Av
+954,Kingsbury Av
+955,Davis Cr
+956,Irene St
+957,Newmarket Bv
+958,Shamrock Dr
+959,Rosedale Av
+960,Gunnell St
+961,Chief Peguis Greenway
+962,Betsworth Av
+963,Hethrington Av
+964,Fountain St
+965,Sheppard St
+966,Dafoe Rd W
+967,Northeast Pioneers Greenway
+968,unnamed road
+969,Lorimer Bv
+970,Ashern Rd
+971,Levis St
+972,Bromton Rd
+973,Deschambault St
+974,James Av
+975,Old Commonwealth Path
+976,Crestwood Cr
+977,Sony Place
+978,Thompson Dr
+979,Royal Park Cr
+980,St. James St
+981,Wildwood Park Section C
+982,Bernfield Bay
+983,Dorchester Av
+984,Beghin Av
+985,De Baets St
+986,Wolever Av
+987,Aluthra Place
+988,Donald St Multi-Use Path
+989,Yellow Ribbon Greenway
+990,Silver Av
+991,Saint Paul Av
+992,Maroons Rd
+993,Saskatchewan Av
+994,Southpark Dr
+995,Kilbride Av
+996,Dyson Av
+997,North Meadow Dr
+998,Whidden Gate
+999,Riddle Av
+1000,Sly Dr
+1001,Lucas Av
+1002,Lindenwood Place
+1003,McAdam Av
+1004,Red Maple Rd
+1005,Carruthers Av
+1006,Buttonwood Bay
+1007,Matheson Av E
+1008,Washington Av
+1009,Portsmouth Bv
+1010,Brookhaven Bay
+1011,Park Place E
+1012,Ferndale Av
+1013,Hamel Av
+1014,Alwood Cr
+1015,Millfield Dr
+1016,Overdale St
+1017,Pinedale Av
+1018,Devonshire Dr E
+1019,Thorncliff Bay
+1020,Nature Park Way
+1021,Pearl McGonigal Way
+1022,Waterford Av
+1023,Eagle Dr
+1024,Ada St
+1025,Smithfield Av
+1026,Loraine St
+1027,Viscount Place
+1028,Robert Service Bay
+1029,Mazenod Rd
+1030,McArthur St
+1031,Qu'Appelle Av
+1032,Ellen St
+1033,undefine
+1034,Ruby St
+1035,Lily St
+1036,Rover Av
+1037,George Av
+1038,Young St
+1039,Toronto St
+1040,Tylehurst St
+1041,Rupert Av
+1042,Canad
+1043,Lombard Av
+1044,Stiles St
+1045,Sprague St
+1046,Floor - 456 Main St
+1047,Lenore St
+1048,Telfer St S
+1049,Portage and Main Circus
+1050,Duffield St
+1051,Martha St
+1052,Basswood Place
+1053,Argyle St
+1054,Glenlawn Av
+1055,McGee St
+1056,River Walk
+1057,Poulin Dr
+1058,Downing St
+1059,Glen Av
+1060,Cunnington Av
+1061,Garfield St N
+1062,Goulding St
+1063,Fort Gibraltar Trail
+1064,Coniston St
+1065,Vista Av
+1066,Agnes St
+1067,Lilian Av
+1068,Deacon St
+1069,Alexander Av
+1070,Henry Av
+1071,Giiwe Cove
+1072,Brandon Av
+1073,Woodward Av
+1074,Aikins St
+1075,Dagmar St
+1076,Portuga
+1077,Pritchard Av
+1078,45606
+1079,Wall St E
+1080,Juno St
+1081,Lipton St
+1082,Ingersoll St
+1083,Victor St
+1084,Sackville St
+1085,Marjorie St
+1086,Douglas Park Rd
+1087,Estella St
+1088,Assiniboine Cr
+1089,West Gate
+1090,Raber Rd
+1091,William Av W
+1092,1/2 William Av
+1093,Kate St
+1094,Dudley Av
+1095,Lorette Av
+1096,Scotland Av
+1097,Northwest Hydro Corridor Multi-Use Path
+1098,Woodrow Place
+1099,Yale Av
+1100,Hillock Av
+1101,Dundurn Place
+1102,Dysart Rd
+1103,Harrow St E
+1104,Weatherdon Av
+1105,Flora Av
+1106,William Newton Av
+1107,Boyle St
+1108,Austin St
+1109,Maple St
+1110,Louise Bridge Boat Launch
+1111,Gables Court
+1112,Waller Av
+1113,Point Douglas Av
+1114,Neil Av
+1115,Wesley Av
+1116,Lafrance Lane
+1117,Maplehurst Rd
+1118,Bank Av
+1119,Hull Av
+1120,Claremont Av
+1121,Thatcher Dr
+1122,Byng Place
+1123,Boston Av
+1124,Magdalene Bay
+1125,Dumas Av
+1126,Adamar Rd
+1127,Manahan Av
+1128,Royse Av
+1129,Cornell Dr
+1130,Harkness Av
+1131,Kelsey Av
+1132,Macalester Bay
+1133,Tunis Bay
+1134,CIBC Drthru ATM
+1135,Weatherstone Place
+1136,Belton St
+1137,Harold Av W
+1138,Chelsea Av
+1139,Station Place
+1140,Saunderson St
+1141,Jackson Av
+1142,Berwick Court
+1143,Southwood Av
+1144,Emory Rd
+1145,Riviera Av
+1146,Somerset Av
+1147,St. Dunstans Bay
+1148,Pasadena Av
+1149,Kinlock Lane
+1150,- 960 Lorimer Bv
+1151,Farwell Bay
+1152,Ken Ploen Way
+1153,Heatherdale Av
+1154,Gaylene Place
+1155,Brisbane Av
+1156,Walker Court
+1157,Vincent St
+1158,Cornish Av
+1159,Lake Bend Rd
+1160,Ferrier St
+1161,Tach Av
+1162,Cypress Bay
+1163,Churchill Parkway
+1164,Bluemeadow Rd
+1165,Machray Av
+1166,River Dr
+1167,Pinewood Dr
+1168,Elmwood Rd
+1169,Couture Cr
+1170,Presidents Court
+1171,Morava Way
+1172,Ambassador Row
+1173,Wildwood Park Section H
+1174,Bayview Place
+1175,boardwalk
+1176,Fleetwood Rd
+1177,Coach Hill Rd
+1178,Arrowwood Dr S
+1179,Mosselle Dr
+1180,Chalmers Av E
+1181,Park E Dr
+1182,Appleford Gate
+1183,Winterhaven Dr
+1184,Muriel St
+1185,Wildwood St
+1186,Cloutier Trail
+1187,Rose Lake Court
+1188,Bitterfield Dr
+1189,Ralph Av W
+1190,Red Lily Rd
+1191,Midwinter Av
+1192,Crofters Cove
+1193,Calderwood Bay
+1194,Harte Trail
+1195,Assiniboine Park Dr
+1196,Landover Dr
+1197,Bridlewood Rd
+1198,Ulster St
+1199,McGillivray Place
+1200,Oxford St
+1201,Seine River Greenway
+1202,Riverdale Av
+1203,Ocean Ridge Dr
+1204,John Mann Place
+1205,Ken Oblik Greenway
+1206,Desharnais St
+1207,Cherrywood Rd
+1208,Bonaventure Dr E
+1209,Parkville Dr
+1210,Zoo Dr
+1211,Greenwich Bay
+1212,Bridgetown Dr
+1213,Delorme Bay
+1214,Highland Creek Rd
+1215,Bunn's Creek Trail
+1216,Reg Wyatt Way
+1217,Colley Cr
+1218,Autumnview Dr
+1219,Massena Cr
+1220,Pacific Av W
+1221,Thomas Berry St
+1222,Flamingo Crossing
+1223,Perimeter Rd
+1224,Reenders Dr Pathway
+1225,Traverse Trail
+1226,South St. Vital Trail
+1227,Brookstone Place
+1228,Sabre Cr
+1229,Riverview Dr
+1230,De Graff Place
+1231,Squire Place
+1232,Springwater Rd
+1233,Valade St
+1234,Lake Albrin Bay
+1235,Sturgeon Creek Trail
+1236,Evans St
+1237,William R. Clement Parkway
+1238,Houde Dr
+1239,Garden Grove Dr
+1240,Capulet Cr
+1241,Marine Dr
+1242,Harold Av E
+1243,Normand Av
+1244,Ranville Rd
+1245,Eagleview Rd
+1246,Tranquility Cove
+1247,Norris Rd
+1248,Oak Lawn Rd
+1249,Innsbruck Way
+1250,Lake Forest Rd
+1251,Heartstone Dr
+1252,Park Place W
+1253,Cranlea Path
+1254,Moore Av
+1255,Hallet St
+1256,Mark Pearce Av
+1257,Bethune Way
+1258,Morrow Av
+1259,Tallgrass Cr
+1260,Wildwood Park Section E
+1261,Orchard Hill Dr
+1262,Goodridge Cr
+1263,Wildwood Park Section J
+1264,Castlebury Meadows Dr
+1265,Terry Fox Trail
+1266,Pavilion Cr
+1267,McKay Dr
+1268,Maplewood Av
+1269,Kirkham Bay
+1270,Pevensey Place
+1271,Avril Lane
+1272,Cal Gardner Dr
+1273,Maisonneuve St
+1274,Beachham Cr
+1275,Park trail
+1276,Avaco Dr
+1277,Transcona Trail
+1278,Harbison Av W
+1279,Barrington Av
+1280,Cherryhill Rd
+1281,Alberhill Cr
+1282,Manhattan Av
+1283,Park W Dr
+1284,Corliss Cr
+1285,Blue Lake Bay
+1286,Locomotive Dr
+1287,Belvï¿½dï¿½re Saint-Boniface
+1288,Thorn Dr
+1289,El Tassi Dr
+1290,Byron Bay
+1291,Ainsworth Place
+1292,Richardson Av
+1293,McCurdy St
+1294,Sam Fabro Way
+1295,Maynard Close
+1296,Rutledge Cr
+1297,Brambleforde Cr
+1298,Red Oak Dr
+1299,Leston Place
+1300,Lake St
+1301,Beaconsfield St
+1302,Tufnell Dr
+1303,Sandra Bay
+1304,Foxwarren Dr
+1305,Saint John's Av
+1306,Bachman Bay
+1307,John Bruce Rd E
+1308,Dana Cr
+1309,Winks St
+1310,Spring Meadow Cr
+1311,Burrin Av
+1312,Rosseau Av W
+1313,Mandan Rd
+1314,Springfield Cutoff
+1315,Greenlea Cove
+1316,Burning Bush Bay
+1317,Edmond Muys Place
+1318,Oakview Av
+1319,Park Bv N
+1320,Lemmen Dr
+1321,Rochester Av
+1322,Clear Spring Rd
+1323,River Valley Dr
+1324,Park Circle
+1325,Shahi St
+1326,South Transcona Community Path
+1327,Evelyne Reese Bv
+1328,Preston Trail
+1329,Perry Bay
+1330,Pinehurst Cr
+1331,Boone Place
+1332,Margolis Place
+1333,Dawson Rd S Active Transport Path
+1334,Drewry Lane
+1335,Marlow Court
+1336,Philip Lee Cr
+1337,Wildwood Park Section I
+1338,Sagimay Trail
+1339,Foot Bridge
+1340,Primrose Cr
+1341,Red Spruce Rd
+1342,Water Bend Rd
+1343,Hewitt Cr
+1344,Frontier Trail
+1345,Desrosiers Dr
+1346,Danube Dr
+1347,Shoreline Dr
+1348,Minikada Bay
+1349,Murray Park Rd
+1350,Durham Bay
+1351,Kildonan Dr
+1352,Preston Av
+1353,Veterans Way
+1354,Lake Grove Bay
+1355,Hillbrook Dr
+1356,Waterford Green Common
+1357,Birch Bay
+1358,Woodchester Bay
+1359,Hazelton Dr
+1360,Saint George Rd
+1361,Swindon Way
+1362,Elm Park Rd
+1363,Valley Brook Rd
+1364,Abbeydale Cr
+1365,Woodydell Av
+1366,Northcote Bay
+1367,Wildwood Park Section B
+1368,Zimmerman Dr
+1369,Bluewater Cr
+1370,Biscayne Bay
+1371,Queens Park Cr
+1372,Brahms Bay
+1373,Harvard Av W
+1374,Tatum Place
+1375,Cedarcrest Dr
+1376,Leighton Av
+1377,Mildred St
+1378,North Point Bv
+1379,Sabine Cr
+1380,Wood Glen Rd
+1381,Willow Creek Rd
+1382,River Ridge Path
+1383,Millbrook Lane
+1384,Beauty Av
+1385,Orientation Circle
+1386,Hunterbrook Rd
+1387,Rossmere Cr
+1388,Foxdale Av
+1389,Ravenhill Rd
+1390,Bonner Av
+1391,Regal Av
+1392,Edward Av E
+1393,Countryside Way
+1394,Larchdale Cr
+1395,East Plains Dr
+1396,Rudolph Bay
+1397,Allegheny Dr
+1398,Bloomer Cr
+1399,Camiel Sys St
+1400,Dells Cr
+1401,Pearce Av
+1402,Park Terrace Dr
+1403,Cassowary Lane
+1404,John Brebeuf Place
+1405,Marianne Rd
+1406,Costello Dr
+1407,Falconer Bay
+1408,Edge Park Cr
+1409,Taurus Way
+1410,Merkel Manza Bv
+1411,Sablewood Rd
+1412,Tanya Cr
+1413,Blundell Bay
+1414,Willmington Dr
+1415,Nurgitz Bay
+1416,Coleridge Park Dr
+1417,Eastway
+1418,Hillberry Bay
+1419,Ross Av
+1420,Lord Selkirk Dr
+1421,Angela Everts Dr
+1422,Ridgedale Cr
+1423,Paufield Dr
+1424,Hickory Wood Place
+1425,Wellsprings Cove
+1426,Path to Bus Stop
+1427,Lake Park Dr
+1428,Egerton Rd
+1429,Stockdale St
+1430,Aspen Forest Point
+1431,Aspen Trail
+1432,Creekside Rd
+1433,Forest Park Dr
+1434,St. Cross St
+1435,Waterloo St
+1436,North Lake Dr
+1437,Beresford Av
+1438,Ibqal Green
+1439,Mulvey Av E
+1440,Granville St
+1441,Mathers Av
+1442,Gamble Place
+1443,Bellflower Rd
+1444,Trigwell Bay
+1445,Albina Way
+1446,Eaglemere Dr
+1447,Arden Av
+1448,Gomez St
+1449,Jupiter Bay
+1450,Horrox Bay
+1451,Howden Rd
+1452,Dewdney Av
+1453,Willowood Rd
+1454,Waterview Cove
+1455,Ham St
+1456,Glen Meadow St
+1457,Canora St
+1458,Thom Av W
+1459,Vanderbilt Dr
+1460,Cannes Cr
+1461,Sage Creek Trail
+1462,Bardal Bay
+1463,Commanche Rd
+1464,Roshni Bay
+1465,Moroz St
+1466,Kirlystone Way
+1467,Luxton Av W
+1468,Willson Place
+1469,Fuga Bay
+1470,Saint Maryï¿½s Rd
+1471,Oakland Av
+1472,Bittersweet Bay
+1473,Mercy Tunnel
+1474,Joe Keeper Way
+1475,D'Arcy Dr
+1476,Vincent Massey Bv
+1477,Rupertsland Av
+1478,Renshaw Bv
+1479,Lake Rd
+1480,Radium Cove
+1481,Paulley Dr
+1482,Edenwood Place
+1483,Barron Dr
+1484,Airlies St
+1485,Sundog Dr
+1486,West Lake Cr
+1487,Herbert Av
+1488,Wood Sage Cr
+1489,Clayton Dr
+1490,Cabot Cr
+1491,Hatcher Rd
+1492,Pegius Dr
+1493,Lakeside Dr
+1494,Maple Creek Rd
+1495,Greenmount Rd
+1496,Macklin Av
+1497,West Fernwood Av
+1498,Mellish Av
+1499,Simpson Av
+1500,Windflower Rd
+1501,Hastings Bv
+1502,Consol Av
+1503,Roy Av
+1504,Wildwood Park Section F
+1505,Glenwood Cr
+1506,Centre Dr
+1507,Red Moon Rd
+1508,Linden Av
+1509,Ravelston Av W
+1510,Woodvale St
+1511,Smart St
+1512,Esplanade Riel
+1513,Balsam Place
+1514,Steve Mymko Dr
+1515,Cromwell St
+1516,Robson St
+1517,Stan Bailie Dr
+1518,Barker Bv
+1519,Wihuri Rd
+1520,Kingsford Place
+1521,Jack Donner Dr
+1522,Gemstone Cove
+1523,The Leaf Way
+1524,Fowler St
+1525,Hekla Av
+1526,Manorview Close
+1527,Sunset Bv
+1528,Raglan Rd
+1529,Almond Bay
+1530,Heritage Bv
+1531,Westmount Bay
+1532,Tansi Lane
+1533,Fernleaf Dr
+1534,Bv Des Hivernants
+1535,Crocus St
+1536,Nuffield Place
+1537,Denson Place
+1538,Luzon Bay
+1539,Witham Rd
+1540,Dounreay Bay
+1541,College Av
+1542,Brambleberry Place
+1543,Callsbeck Av
+1544,Dowling Av W
+1545,McCrindle Bay
+1546,Sigma Av
+1547,Red Sky Rd
+1548,McBeth St
+1549,Bruce Av
+1550,Bayridge Av
+1551,Reay Cr
+1552,Samara Cove
+1553,Eastoak Dr
+1554,Cedar Place
+1555,Dawnville Dr
+1556,Newton Av
+1557,Arundel Rd
+1558,Brewster Bay
+1559,Mardena Cr
+1560,Park Springs Bay
+1561,Dorge Dr
+1562,Whittier Av W
+1563,Birchdale Av
+1564,Midland St
+1565,City Av
+1566,Park Bv E
+1567,Hamelin St
+1568,Poplar Av
+1569,Bramble Dr
+1570,Cortez Bay
+1571,Gibson St
+1572,Oddy St
+1573,Eric St
+1574,Edward Turner Dr
+1575,Tunbridge Bay
+1576,Saint Claire Bv
+1577,Albany St
+1578,Stretford Rd
+1579,Bellemer Dr
+1580,Scammel Rd
+1581,Hartford Av
+1582,Creemans Cres
+1583,Rosewood Place
+1584,Roberta Av
+1585,Cloverwood Rd
+1586,Beecher Av
+1587,John Bruce Bridge
+1588,Widlake St
+1589,Shauna Way
+1590,Tudor Cr
+1591,Doran Bay
+1592,Healy Cr
+1593,Richard Av
+1594,Mahonee Dr
+1595,Baltic Bay
+1596,Wabasha St
+1597,Pear Tree Bay
+1598,Prairie Smoke Dr
+1599,Doctor David Marsh Row
+1600,Normandy Dr
+1601,Idlewild Bay
+1602,Riverbend Av
+1603,Doubleday Dr
+1604,Mulvey Av
+1605,Groveland Bay
+1606,Hazel Dell Av
+1607,Playgreen Cr
+1608,Worth St
+1609,Robin Hood Cr
+1610,Bridgeway Cr
+1611,Conservatory Dr
+1612,Huntington Dr
+1613,Brentford Rd
+1614,Evenwood Cr
+1615,John Taylor Place
+1616,Lake Ridge Rd
+1617,Bellavista Cr
+1618,Edna Perry Way
+1619,Clarkleigh Cr
+1620,Hammond Rd
+1621,Dowker Av
+1622,Novara Dr
+1623,Timberline Dr
+1624,Smuggler's Cove
+1625,Neptune Bay
+1626,Chochinov Av
+1627,Juba St
+1628,Radford St
+1629,High Lake Bay
+1630,Arby Bay
+1631,La Fleche St
+1632,Meredith Bay
+1633,Scotia Steet
+1634,Lomond Bv
+1635,Viola St
+1636,John Bruce Rd
+1637,Sewa Cr
+1638,Bawlf St
+1639,Carriage Rd
+1640,Horton Av W
+1641,River Pointe Dr
+1642,Crowson Bay
+1643,Manor House Court
+1644,Uxbridge Rd N
+1645,Ottawa Av
+1646,Hiddleston Cr
+1647,Bourkewood Place
+1648,River Ridge Dr
+1649,Manitou Bay
+1650,Bloomfield Path
+1651,Sansome Av
+1652,McBeth Grove
+1653,Garwood Av
+1654,Shorecrest Dr
+1655,James Carleton Dr
+1656,Cooper's Town Rd
+1657,Pamela Rd
+1658,Trowbridge Bay
+1659,Larche Av W
+1660,Jamison Av
+1661,Kayhans Dr
+1662,Edward Av W
+1663,Wharton Bv
+1664,Brooksmere Trail
+1665,Delbrook Cr
+1666,Prairie View Rd
+1667,Garvie Bay
+1668,Amanda Cr
+1669,Saint John Ambulance Way
+1670,Courland Bay
+1671,Dalgleish Bay
+1672,Mossdale Av
+1673,Abbotsford Cr
+1674,Dickens Dr
+1675,Summerview Lane
+1676,Harstone Rd
+1677,Laurent Dr
+1678,Princemere Rd
+1679,Curtis St
+1680,Simkin Dr
+1681,Tamblyn Rd
+1682,Tracy Cr
+1683,Harper Av
+1684,Patricia Av
+1685,Einarson Av
+1686,Eastcote Dr
+1687,Evans Av
+1688,Blostein Bay
+1689,Gibraltar Bay
+1690,Diamond St
+1691,link to boardwalk
+1692,Oakdean Bv
+1693,De la Cathedrale Av
+1694,Commissary Rd
+1695,Holborn Place
+1696,Vadeboncoeur Dr
+1697,Togo Av
+1698,Battershill St
+1699,Bondar Bay
+1700,Karl Umber Trail
+1701,Inch Bay
+1702,Calrossie Bv
+1703,Oak Forest Cr
+1704,Jack Reimer Dr
+1705,Evenlea Walk
+1706,Nesbitt Bay
+1707,Melanie Cove
+1708,Joynson Cr
+1709,Don Av
+1710,Iroquois Bay
+1711,River Ridge Place
+1712,Attache Dr
+1713,Hawthorne Av
+1714,Atlas Cr
+1715,Browning Bv
+1716,Wildwood Park Section A
+1717,Rowntree Av
+1718,Dussault Av
+1719,Guay Av
+1720,Conifer Cr
+1721,Grierson Av
+1722,Hazelwood Cr
+1723,Avonherst St
+1724,Valewood Cr
+1725,Jibby St
+1726,Everglade Place
+1727,Brace Bridge Rd
+1728,Blue Sun Dr
+1729,Lakeshore Rd
+1730,Royal Av
+1731,Woody (Spirit Tree)
+1732,High Point Dr
+1733,Kilmarnock Bay
+1734,Arthur Wright Cr
+1735,Luxton Av
+1736,Bernadine Cr
+1737,Epsom Cr
+1738,Tilstone Bay
+1739,Timmins Av
+1740,Summerfield Way
+1741,Prairie Way
+1742,Daffodil St
+1743,Cass St
+1744,Kersey Bay
+1745,Vialoux Dr
+1746,Lindenshore Dr
+1747,Bonaventure Dr W
+1748,Dr. David Friesen Dr
+1749,Hemlock Place
+1750,Sargent Tommy Prince St
+1751,Bronx Place
+1752,Seine River Greenway Trail
+1753,De Bourmont Bay
+1754,Ridley Place
+1755,Wheelchair Ramp
+1756,Langevin St
+1757,Fairview Dr
+1758,Hendon Av
+1759,Skrypnyk Cr
+1760,Agincourt Rd
+1761,Mayfair Place
+1762,Blackberry Bay
+1763,Huntleigh St
+1764,Surfside Cr
+1765,Dedrick Bay
+1766,Thurso St
+1767,Kylemore Av
+1768,Mercedes Dr
+1769,Carlotta Cr
+1770,Jerry Klein Dr
+1771,Rose Hill Way
+1772,Perth Av
+1773,Erie Bay
+1774,Oneida Place
+1775,Knappen Av
+1776,Rogan Dr
+1777,Bredin Dr
+1778,McIvor Av
+1779,Shelmerdine Dr
+1780,Buffalo Cr
+1781,Del Monica Rd
+1782,Dafoe Bv
+1783,Heather Rd
+1784,Fifth Av
+1785,Aldershot Bv
+1786,Blenheim Av
+1787,Traverse Av
+1788,Inspiration Place
+1789,Hervo St
+1790,Pike Cr
+1791,Buffie Bay
+1792,Oustic Av W
+1793,Kentland Rd
+1794,Bonny Brook Rd
+1795,Oakdale Dr
+1796,Triton Bay
+1797,Dunrobin Av
+1798,Planet St
+1799,Salvia Bay
+1800,Park Valley Rd
+1801,Newman Av W
+1802,Beechwood Place
+1803,Lavenham Cr
+1804,Tanoak Park Dr
+1805,Highland Av
+1806,Greene Av
+1807,Pebble Creek Gate
+1808,Sawchuk Bay
+1809,Jolliett Cr
+1810,Edgewood St
+1811,Groverdale Av
+1812,Hidden Oaks Cove
+1813,Prominence Point
+1814,Murray Rougeau Cr
+1815,Beach Av
+1816,Brookfield Cr
+1817,Dahlia Av
+1818,Singh Trail
+1819,Adelaide St
+1820,Durward St
+1821,Cedargrove Cr
+1822,Kern Dr
+1823,Aster Av
+1824,Cascade Bay
+1825,Messager St
+1826,Macaulay Cr
+1827,Chenier Bay
+1828,Greenwood Av
+1829,Tanager Trail
+1830,Saint Elmo Rd
+1831,Monaco Bay
+1832,Sara Av
+1833,Antrim Rd
+1834,Dockside Way
+1835,Bret Bay
+1836,Colonial Court
+1837,Longspur Rd
+1838,Malmsbury Av
+1839,Campbell St
+1840,Stardust Cr
+1841,Lock St
+1842,Cottingham St
+1843,Galinee Bay
+1844,Almey Av
+1845,Woodhaven Bv
+1846,Lotus Lane
+1847,Grey Heron Dr
+1848,Nolana St
+1849,Lismore Av
+1850,Huddersfield Place
+1851,Cricket Dr
+1852,Weinberg Rd
+1853,Matheson Av
+1854,Ebb Tide Dr
+1855,Snowberry Circle
+1856,Stella Walk
+1857,Yellow Rail Cr
+1858,Wildbrook Bay
+1859,Hoban St
+1860,Forrester Av
+1861,Guy Savoie Dr
+1862,Chaffey Place
+1863,Red Willow Cr
+1864,Siddall Cr
+1865,Bayview Dr
+1866,Martin Av W
+1867,Gerrond Bay
+1868,Timbercrest Court
+1869,Rh Way
+1870,Litchfield Bv
+1871,Apple Lane
+1872,Ravine Dr
+1873,Parkwood Place
+1874,Southboine Dr
+1875,Linden Ridge Dr
+1876,Windlass Bay
+1877,Perimeter Hwy
+1878,Pioneers Pass
+1879,Art Miki Way
+1880,Sidebottom Dr
+1881,Mosselle Place
+1882,Lakebourne Dr
+1883,Aubin Dr
+1884,John Neufeld Cr
+1885,Dampsy Cr
+1886,Jogues Rd
+1887,Highwater Path
+1888,Wordsworth Way
+1889,Gilia Dr
+1890,- 15 Cooper's Town Rd
+1891,Cropo Bay
+1892,Southwell Rd
+1893,Jaymorr Dr
+1894,Stacey Bay
+1895,Moncton Av
+1896,Whitegates Cr
+1897,Lardon Court
+1898,Mossy Oaks Cove
+1899,Twickenham Circle
+1900,Traynor Bay
+1901,Blackwater Bay
+1902,Venus Bay
+1903,Dromore Av
+1904,Lismer Cr
+1905,Barberry Rd
+1906,Berwick Place
+1907,Quelch St
+1908,Devon Av
+1909,Maralbo Av W
+1910,Dieppe Rd
+1911,Park Lane Av
+1912,Purcell Av
+1913,Frontenac Bay
+1914,Ballantrae Dr
+1915,Rockspur St
+1916,Groverdae Ave
+1917,Trent Av
+1918,Leon Bell Dr
+1919,Burnaby Bay
+1920,Baisinger Dr
+1921,Pepperloaf Cr
+1922,Matthew Bay
+1923,Laurel Ridge Dr
+1924,Clearwater Rd
+1925,Ashbury Bay
+1926,Assiniboine Grove
+1927,Proulx Place
+1928,Summerscales Place
+1929,Mt Allison Bay
+1930,Glenbush St
+1931,Highcliff Bay
+1932,Pine Hills Rd
+1933,Fordham Bay
+1934,Eagle Lake Cove
+1935,George Marshall Way
+1936,Wildfire Dr
+1937,Hill Grove Point
+1938,Hudson St
+1939,Inkster Garden Dr
+1940,Boisselle Bay
+1941,McMicken St
+1942,Riverside Dr E
+1943,Trottier Bay
+1944,Alcott St
+1945,Victoria Row
+1946,Cherry Cr
+1947,Weaver Bay
+1948,Des Hivernants Bv
+1949,Somerville Av
+1950,Barlow Cr
+1951,George Suttie Bay
+1952,Lake Lindero Rd
+1953,Merriam Bv
+1954,Werrell Cr
+1955,Park Grove Dr
+1956,Broad Bay
+1957,South Lake Dr
+1958,Maidstone Place
+1959,Pickley Cr
+1960,Thunder Bay
+1961,Carlaw Av
+1962,Tascona Rd
+1963,Dobrinsky Dr
+1964,Laurentia Bay
+1965,Appleton St
+1966,Anneville Cr
+1967,Skyline Dr
+1968,Jubinville Bay
+1969,Point W Bay
+1970,McMasters Rd
+1971,Ashdale Av
+1972,Consulate Rd
+1973,Augusta Dr
+1974,Duluth Bay
+1975,Ethelbert St
+1976,Silver Springs Bay
+1977,Maple St N
+1978,Rutgers Bay
+1979,Montgomery Av
+1980,Wildflower Way
+1981,Desautels St
+1982,Connery Av
+1983,Golf Bv
+1984,Four Oaks Cove
+1985,De lï¿½ï¿½glise Av
+1986,Malcana St
+1987,Alderwood Rd
+1988,Donnelly St
+1989,Linacre Rd
+1990,Culloden Rd
+1991,Callum Cr
+1992,Donegal Bay
+1993,Avalon Rd
+1994,Flora Place
+1995,Sandrington Dr
+1996,Chudley St
+1997,Haig Av
+1998,Bourgeault St
+1999,Farlinger Bay
+2000,Lockwood St
+2001,Lakeland Place
+2002,Greendell Av
+2003,McIntyre Av
+2004,Louis Bakï¿½ River Landing
+2005,Bismarck St
+2006,Dearborn Av
+2007,Rampart Bay
+2008,Villeneuve Bv
+2009,Duck Creek Dr
+2010,Blairmore Gardens
+2011,Barnstaple Cove
+2012,Eade Cr
+2013,Swan Lake Bay
+2014,Stradford St
+2015,Ridgewood Av
+2016,Water Ridge Path
+2017,Lamont Bv
+2018,Newcastle Rd
+2019,Kennington Bay
+2020,Woodfield Bay
+2021,Harvlong Av
+2022,Gosford Av
+2023,Tu-Pelo Av
+2024,Fieldstone Bay
+2025,Tyrone Bay
+2026,Public St
+2027,Sharron Bay
+2028,Beaudry Bay
+2029,Post St
+2030,Parkville Bay
+2031,Strewchuk Bay
+2032,Saint Michael Rd
+2033,Maywood Rd
+2034,Meade St N
+2035,Liba Way
+2036,Bibeau Bay
+2037,Whitehaven Rd
+2038,Loyola Bay
+2039,Kinbrace Bay
+2040,Gendron Way
+2041,High Plain Rd
+2042,Cordite Trail
+2043,McKay Av
+2044,Parade Dr
+2045,Woodlawn Av
+2046,Lochspur Lane
+2047,Morgan Cr
+2048,Amelia Cr
+2049,Sandham Cr
+2050,Kestrel Way
+2051,Cloverdale Cr
+2052,Gundy Lake Bay
+2053,La Vï¿½rendrye St
+2054,Cheriton Av
+2055,Winterton Av
+2056,Coxswain Cove
+2057,Sonning Bay
+2058,Swailes Av
+2059,Shakespeare Bay
+2060,Harvest Lane
+2061,Harlow Bay
+2062,Bessboro St
+2063,Bernier Bay
+2064,Deniset St
+2065,Dohaney Cr
+2066,Willowbend Cr
+2067,Prospect Rd
+2068,Crofton Bay
+2069,Voyageur Av
+2070,Lake Island Cr
+2071,Finch Bay
+2072,Khalsa St
+2073,Hiley Bay
+2074,Woodbridge Rd
+2075,Montclair Bay
+2076,Fletcher Cr
+2077,Aspen Cove
+2078,Ed Golding Bay
+2079,Miravista Dr
+2080,Tanner St
+2081,Olson Way
+2082,Bridgecrest Dr
+2083,Kowall Bay
+2084,Longford Av
+2085,Bruton Place
+2086,Amherst St
+2087,Southall Dr
+2088,Marshall Cr
+2089,Hampton St
+2090,Nadeau St
+2091,Oakhurst Cr
+2092,Turnham Dr
+2093,Shady Shores Dr W
+2094,Cuthbertson Av
+2095,Willowdale Place
+2096,Thornton Av
+2097,Lochmoor Av
+2098,The Forks Market Plaza
+2099,Bannerman Av
+2100,Bramblewood Court
+2101,Riverwest Rd
+2102,Morier Av
+2103,Kent Rd
+2104,Frog Plain Way
+2105,John Black Av
+2106,Tahoe Bay
+2107,Melbourne Av
+2108,Tranquil Bay
+2109,Victoria Av W
+2110,Newcombe Cr
+2111,Rockwood St
+2112,Vanier Dr
+2113,Leach St
+2114,Roanoke St
+2115,Service St 1 Swest
+2116,Canberra Rd
+2117,Elsbury Bay
+2118,Lynbrook Dr
+2119,Pately Cr
+2120,Magellan Bay
+2121,Assiniboine Park Monkey Trail
+2122,Tralee Place
+2123,Ken Butchart Cresent
+2124,Baxter Bay
+2125,Morning Glory Cr
+2126,Whiteway Rd
+2127,Fontaine Cr
+2128,Meighen Bay
+2129,35 Flora Av
+2130,Kamberwell Bay
+2131,Angus St
+2132,Tommy Douglas Dr
+2133,Glen Oaks Cove
+2134,Goldthorpe Cr
+2135,Honeybourne Cr
+2136,Greencrest Av
+2137,Ascot Bay
+2138,Salisbury Cr
+2139,Sterling Av
+2140,Lafayette Bay
+2141,Rothshire Dr
+2142,Millwood Meadow
+2143,Edelweiss Cr
+2144,Douglas Av
+2145,Charles St
+2146,Salme Dr
+2147,Deloraine Dr
+2148,Laurel Bay
+2149,Sweetwater Bay
+2150,De Graff Bay
+2151,Brighton Court
+2152,Coralberry Av
+2153,Sark Cr
+2154,Citadel Cr
+2155,Melonlea Cove
+2156,Syracuse Cr
+2157,Laval Dr
+2158,Shenfield Rd
+2159,Envoy Cr
+2160,Baldry Bay
+2161,Casey St
+2162,Besant St
+2163,Mitchelson Way
+2164,Haggart Av
+2165,Vassar Rd
+2166,Battery St
+2167,Northridge Rd
+2168,Madrigal Close
+2169,Tallman St
+2170,Wentworth St
+2171,Morrison St
+2172,Genthon St
+2173,Country Club Blvd
+2174,Togo Ave
+2175,Monarch Mews
+2176,Braid Pl
+2177,Reynolds Bay
+2178,Peary Cres
+2179,Perimeter 100 Hwy
+2180,Gauvin St
+2181,Oakmont Ave
+2182,Oakdean Cres
+2183,McCarthy St
+2184,Halliday Bay
+2185,Kingshead Close
+2186,Greenlawn St
+2187,Baudoux Pl
+2188,Mulvey Ave E
+2189,Wooddale Dr
+2190,Belcourt Bay
+2191,Woodlands Cres
+2192,Mount Royal Cres
+2193,Metcalfe Ave
+2194,Hemlock Pl
+2195,The Glen
+2196,Armour Cres
+2197,Brunet Prom
+2198,Seine St
+2199,Norquay St
+2200,Gerard St
+2201,Ashgrove Pt
+2202,Stradwick Pt
+2203,Furness Bay
+2204,Lowell Pl
+2205,Upavon Rd
+2206,Yachts Cove
+2207,Hobson Pl
+2208,Invermere St
+2209,Julia Rd
+2210,Setterington Bay
+2211,Hanover Pl
+2212,Peacock Pl
+2213,Front St
+2214,Hennessey Dr
+2215,Wayfarer's Haven
+2216,Bursill Rd
+2217,Olinyk Cove
+2218,Glenview Ave
+2219,Renfrew Bay
+2220,Southbridge Dr
+2221,Selwyn Pl
+2222,Livingston Pl
+2223,Whicker St
+2224,Alderbrook Rd
+2225,Pheasant St
+2226,Maybank Dr
+2227,West Taylor Blvd
+2228,Evenwood Cres
+2229,Morpeth Blvd
+2230,Turcotte Cove
+2231,Dunbar Cres
+2232,Heatherdale Ave
+2233,Celtic Bay
+2234,Parenteau Pl
+2235,Buckley Trow Bay
+2236,Wynmoor Rd
+2237,Ambroise Lane
+2238,Corton Pl
+2239,Hirt Cres
+2240,Castle Ridge Dr
+2241,Dickson Cres
+2242,Merriam Blvd
+2243,Mardena Cres
+2244,Marymount Pl
+2245,Cambrai Cove
+2246,Lake Crest Rd
+2247,Areisa Bay
+2248,Sand Lily Dr
+2249,Lindenwood Pl
+2250,Sandcliffe Crt
+2251,Peel Cres
+2252,Bowhill Lane
+2253,Polaris Ave
+2254,East Mint Pl
+2255,Stone Meadow Rd
+2256,Langley Bay
+2257,Wisconsin St
+2258,Northport Bay
+2259,Golden Willow Cres
+2260,Kerwell Pl
+2261,Beaupre Bay
+2262,Perimeter 101 Hwy
+2263,Morning Star Lane
+2264,De La Seigneurie Blvd
+2265,Sterling Lyon Pky
+2266,Dellwood Cres
+2267,Ramsgate Bay
+2268,Newbury Cres
+2269,Oakcrest Pl
+2270,St David Rd
+2271,Stanford Bay
+2272,Willesden Cres
+2273,Willow Brook Rd
+2274,Miner Cove
+2275,Townsend Ave
+2276,Vineland Cres
+2277,Erin Woods Rd
+2278,Coolspring Pt
+2279,Oakleaf Dr
+2280,Warrendale Pl
+2281,Thelon Way
+2282,Wallingford Cres
+2283,Peres Oblats Dr
+2284,Picton Crt
+2285,Rose Ave
+2286,Yellow Rail Cres
+2287,Dumore Bay
+2288,Carlos Lane
+2289,Epsom Pl
+2290,O'brien Cres
+2291,Speyside Ave
+2292,Brockington Ave
+2293,Battleford Bay
+2294,Wittenberg Rd
+2295,Bright Oaks Bay
+2296,Buckley Bay
+2297,Lafortune Bay
+2298,Beliveau Rd E
+2299,Castlebury Crt
+2300,Station Pl
+2301,Shoreham Bay
+2302,Huddersfield Pl
+2303,Heath St
+2304,Tamworth Bay
+2305,Appelmans Bay
+2306,Haverstock Cres
+2307,Demetrioff Dr
+2308,McGurran Pl
+2309,Harwick Lane
+2310,Mercury Bay
+2311,Sanders Bay
+2312,Burland Ave
+2313,Caldwell Cres
+2314,Evelyne Reese Blvd
+2315,Elstree Crt
+2316,Dayton Dr
+2317,Manchester Blvd S
+2318,Wildwood H Pk
+2319,Wildwood G Pk
+2320,Westfield Dr
+2321,Niakwa Rd E
+2322,Oakfield Pl
+2323,Grimston Rd
+2324,Bryn Mawr Rd
+2325,Fairbrook Cove
+2326,Wells Gray Pl
+2327,Brookland Bay
+2328,Goldfinch Way
+2329,Ironweed Rd
+2330,Kettering St
+2331,Wildwood B Pk
+2332,Penticton Bay
+2333,Chippawa Bay
+2334,Brotman Bay
+2335,Lake Linnet Pl
+2336,Beckwith Lane
+2337,Wankling Crt
+2338,Lessard Pl
+2339,Wright St
+2340,Brigantine Bay
+2341,Olivewood Cres
+2342,Brisbane Ave
+2343,Dumas Ave
+2344,Wakopa Pl
+2345,Haverhill Cres
+2346,Lake Lawn Dr
+2347,Atkinson Rd
+2348,Wildwood F Pk
+2349,Wildwood C Pk
+2350,Byng Pl
+2351,Civic St
+2352,Victory Pl
+2353,Fortune St
+2354,Lake Island Cres
+2355,Gablehurst Cres
+2356,Pentonville Cres
+2357,Leamington Gate
+2358,Gaitwin Cove
+2359,Willow Ridge Rd
+2360,Ronnander Cove
+2361,Dallinger Dr
+2362,Batoche Ave
+2363,Nipigon Rd
+2364,Handyside Ave
+2365,Sir John Franklin Rd
+2366,Camp Manitou Rd
+2367,Thackeray Ave
+2368,Fulham Ave
+2369,Beechwood Pl
+2370,Traill Ave
+2371,Dowse St
+2372,Spine Dr
+2373,Service 2 St N
+2374,Service 1 Rd SW
+2375,Balsam Pl
+2376,Ship St
+2377,West Hangar Rd
+2378,Raymond Pl
+2379,St Denis Pl
+2380,Parisien Pl
+2381,Turnstone Terr
+2382,Ransford Pl
+2383,Goldeneye Crt
+2384,Victor Pleshko Pl
+2385,Grassy Lake Dr
+2386,Bromley Pl
+2387,Bracebridge Rd
+2388,Colwick Cove
+2389,Oak Park Walk
+2390,Britain Blvd
+2391,First Airport Ave
+2392,Foley Ave
+2393,Morberg Way
+2394,Hind Ave
+2395,Kramble Pl
+2396,Sunstone Bay
+2397,Westwind Pl
+2398,Lancing Cove
+2399,Wheatgrass Lane
+2400,Newport Rd
+2401,Vestford Pl
+2402,Cunard Pl
+2403,Brainerd Cove
+2404,Needlehurst Pl
+2405,Beaufort Cres
+2406,Brookstone Pl
+2407,Four Mile Rd 9999
+2408,Four Mile Rd
+2409,PR 221 PR
+2410,Dundoon St
+2411,Rossmore Ave
+2412,Addis Ave
+2413,PTH 7 PTH
+2414,PR 409 PR
+2415,Centreport Canada Way
+2416,PTH 59 PTH S
+2417,William Tweed Terr
+2418,Sheilagh Ball Cove
+2419,Numeracy Lane
+2420,Acorn Pl
+2421,Edington Pt
+2422,Philiman Pl
+2423,Nihal Bay
+2424,Malanchuk Pl
+2425,Gregg Pl
+2426,Prelest Pl
+2427,Deepwood Cove
+2428,Lasker Pl
+2429,Pavia Pl
+2430,Baden Crt
+2431,Christenson Pl
+2432,Timmins Pl
+2433,Condor Pl
+2434,Bodie Bay
+2435,Sunterra Cove
+2436,Joy Pl
+2437,East Springs Cove
+2438,Saul Miller Dr
+2439,Gelhorn Pl
+2440,Broadview Pl
+2441,Burrowing Owl Cove
+2442,Envoy Pl
+2443,Marlyn Pl
+2444,Hooper Pl
+2445,Desert Park Cove
+2446,Robins Nest Bay
+2447,Quill Bay
+2448,Foxrun Pl
+2449,Michael Ruta Pl
+2450,Capricorn Pl
+2451,McInnes Pl
+2452,Rose Hill Pl
+2453,Sunrise Cove
+2454,Pekary Pl
+2455,Evelyn Shannon Pl
+2456,Ashley Cove
+2457,Cascia Cove
+2458,Oakglen Pl
+2459,Stronsay Pl
+2460,Gaynor Pl
+2461,Vander Graaf Pl
+2462,Bonnie Lane
+2463,Clara Demarchi Pl
+2464,David Evans Pl
+2465,Sherbo Cove
+2466,Stan Turriff Pl
+2467,Tom Nichols Pl
+2468,Gardner Cove
+2469,Connor Pl
+2470,Drummond Pl
+2471,Wordsworth Pl
+2472,Great Elm Cove
+2473,Berwick Crt
+2474,Georges Forest Pl
+2475,Wavecrest Cove
+2476,Cuthbertson Pl
+2477,Jean-Baptiste Lavoie Pl
+2478,Lonergan Pl
+2479,Kenton Cove
+2480,Cheltenham Cove
+2481,Ike Kraut Pl
+2482,Mosswood Pl
+2483,Dearsley Pl
+2484,Lakemere Pl
+2485,Braewood Pl
+2486,Chiltern Pl
+2487,Bur Oaks Cove
+2488,Moorstead Bay
+2489,Rainbow Cove
+2490,Bard Pl
+2491,Seabrook Cove
+2492,Sheldrake Cove
+2493,Bayshore Cove
+2494,Kenneth St
+2495,Berube Pl
+2496,Sheridan Pl
+2497,Boxwood Cove
+2498,William Nock Cove
+2499,Sundance Cove
+2500,Plumtree Pl
+2501,Barriwood Cove
+2502,Falconwood Crt
+2503,Don Craik Cove
+2504,Farnley Pl
+2505,Limetree Cove
+2506,Hidden Valley Cove
+2507,Attley Pl
+2508,Avonlynn Crt
+2509,Sedgeley Crt
+2510,Bellington Pl
+2511,Joyal Pl
+2512,Bailley Ave
+2513,Haddington Bay
+2514,Deswood Pl
+2515,Harmony Cove
+2516,Earlton Pl
+2517,Victor Wyatt Pl
+2518,Northwood Crt
+2519,Rattai Pl
+2520,Keelegate Pl
+2521,Aspen Forest Pt
+2522,Burke Bay
+2523,Hobart Pl
+2524,Port Pl
+2525,Lehigh Pt
+2526,Upton Pl
+2527,Coleman Cove
+2528,Stanhope Gdn
+2529,Wycombe Pl
+2530,Seier Bay
+2531,Cyr Bay
+2532,Almington Bay
+2533,Poplar Pt
+2534,Maidstone Bay
+2535,Dove Bay
+2536,Lagace Pl
+2537,Hardy Bay
+2538,Fennbark Pl
+2539,Peadin Pl
+2540,Kingsbridge Crt
+2541,Blackheath Close
+2542,Islington Crt
+2543,Ivy Lea Crt
+2544,Dunedin Cove
+2545,Astoria Pt
+2546,Amethyst Pl
+2547,Hallmark Pt
+2548,Hajes Pl
+2549,Westham Pl
+2550,Knightswood Crt
+2551,Beaulynn Cove
+2552,Nault Cir
+2553,Stonegate Close
+2554,McGill Pl
+2555,Almondel Key
+2556,Lidcliff Crt
+2557,Cranston Pl
+2558,Wendover Pl
+2559,Gonville Pl
+2560,Rochester Pl
+2561,Copperwood Crt
+2562,Hollingbury Pl
+2563,Beachgrove Crt
+2564,Arbourwood Crt
+2565,Hadley Pl
+2566,Longstone Pl
+2567,Demers Pl
+2568,Jolibois Pl
+2569,Du Monastere St
+2570,Veert Rd
+2571,PR 200 PR
+2572,Murdock Rd
+2573,Floodway Bridge
+2574,WEWPCC Access road Rd
+2575,Chalmers Ave
+2576,Father Labonte Ave
+2577,Solomon Pl
+2578,Lord Ave
+2579,Marringhurst St
+2580,Highmoor Crt
+2581,Chatham Pl
+2582,Stefanik Ave
+2583,Signet Rd
+2584,Orion Cres
+2585,Cartesian Gate
+2586,Basel Ave
+2587,Alonza St
+2588,Doug Mckay Pl
+2589,Baird Pl
+2590,Rozmus Bay
+2591,Brunlea Key
+2592,Leatherwood Cove
+2593,Popko Cres
+2594,Martell Cres
+2595,Winters Way
+2596,Leamen Cres
+2597,Mornefortune Cres
+2598,Peters Bay
+2599,Douglas Lawrence Bay
+2600,Keystone Cres
+2601,Heft Cres
+2602,Wisteria Way
+2603,Baker Bay
+2604,Birchbark Bay
+2605,Tessler Bay
+2606,Shalimar Cres
+2607,North Point Blvd
+2608,Moldan Bay
+2609,Heidelberg Bay
+2610,Stillmeadow Cove
+2611,Woodlark Pl
+2612,Dan H. Young Bay
+2613,Gardenia Bay
+2614,Anneville Cres
+2615,Dzogan Cove
+2616,Stoddart Crt
+2617,Allincite Rd
+2618,PTH 9 PTH
+2619,Service Road_86
+2620,Groverdale Ave
+2621,Buchanan Blvd
+2622,Bill Larkin Lane
+2623,Dorothy St
+2624,Lorne Ave
+2625,Menno Bay
+2626,Pearn Ave
+2627,King Edward St E
+2628,Lane Lane
+2629,Pearl St
+2630,Virden Cres
+2631,Devonshire Dr
+2632,Field St
+2633,Price Dr
+2634,Bill Blaikie Bay
+2635,Byars Pl
+2636,Van Horne St
+2637,Park Lane Ave
+2638,Colley Cres
+2639,Renshaw Blvd
+2640,Radar Pl
+2641,McMullen Cres
+2642,George Lawrence Bay
+2643,Bachinsky St
+2644,Adele Ave
+2645,McCalman Ave
+2646,Ivybridge Gate
+2647,Rothshire Pl
+2648,Outhwaite St
+2649,Jacques Ave
+2650,Sargent Park Pl
+2651,Sanford St
+2652,Bradley St
+2653,Concordia Ave
+2654,Tychonick Bay
+2655,Uplands Cres
+2656,Dyson Ave
+2657,Moccasin Bay
+2658,Richard Ave
+2659,Lou Peltier Cres
+2660,Matheson Ave E
+2661,Dzyndra Cres
+2662,Dauphin Ave
+2663,Deerhorn Lane
+2664,Russenholt St
+2665,Sims Cres
+2666,Colonial Crt
+2667,Gomez St N
+2668,Kinsley Cres
+2669,Cosmo Pl
+2670,Ralph Ave E
+2671,Berwyn Bay
+2672,Willis Wyatt Pl
+2673,Terry Scott Bay
+2674,Fleming Ave
+2675,Code St
+2676,Galbraith Cres
+2677,Granada Cres
+2678,Bernard Bay
+2679,Featherstone Way
+2680,Merkel Manza Blvd
+2681,Hamilton Meadows Dr
+2682,Catharine Ave
+2683,Norilyn Bay
+2684,Dampsy Cres
+2685,Halkirk Bay
+2686,Spring Valley Rd
+2687,Ellington St
+2688,Colvin Ave
+2689,Tain Bay
+2690,Lark St
+2691,Owena St
+2692,Irysh Ave
+2693,Routly Rd
+2694,Bellavance St
+2695,Kirkland Rd
+2696,Stalker Bay
+2697,Melness Bay
+2698,Currie Cres
+2699,Ian Pl
+2700,Remi Claeys Cres
+2701,Clifton Pl
+2702,Rex Ave
+2703,Connery Ave
+2704,Golden Eagle Dr
+2705,Nathan Lane
+2706,Herman Ave
+2707,Maxwell Pl
+2708,Kurt Ave
+2709,Hosfield Pl
+2710,Vryenhoek Pl
+2711,Bunting St
+2712,Euston St
+2713,Banff Pl
+2714,Woodcroft Bay
+2715,Killington Bay
+2716,Ballard Cres
+2717,Timmins Ave
+2718,Thurlby Rd
+2719,Serenity Cove
+2720,Burdick Pl
+2721,Tulip Rd
+2722,Del Rio Pl
+2723,Marlow Crt
+2724,Edgecombe Cove
+2725,Mellowmead Cove
+2726,Corne St
+2727,Algonquin Ave
+2728,Litz Pl
+2729,Kronstal Pl
+2730,Rolmount Rd
+2731,Leatherwood Cres
+2732,Kirk Cres
+2733,Principal Bay
+2734,Hartley Pl
+2735,William Dixon Bay
+2736,Marydale Pl
+2737,Heronswood Path
+2738,Wentwood Cres
+2739,Carson Bay
+2740,Bedford Ave
+2741,Silverwood Bay
+2742,Listowel Bay
+2743,Leicester Sq
+2744,Louis Riel St
+2745,Hargrave Pl
+2746,St Paul Ave
+2747,Telfer St N
+2748,Rennie Ave
+2749,Felix Ave
+2750,Borrowman Pl
+2751,Van Bellegham Ave
+2752,Mackie Bay
+2753,Messier St
+2754,Craig St
+2755,Dallas Rd
+2756,Lagopoulos Way
+2757,Evergreen Pl
+2758,Lilian Ave
+2759,Purcell Ave
+2760,Cusson St
+2761,Daer Blvd
+2762,Maryland Bridge
+2763,Banting Dr
+2764,Pulford St
+2765,Palliser Ave
+2766,Ridley Pl
+2767,Stillwell St
+2768,Mayfair Pl
+2769,Seaside Dr
+2770,Harkness Ave
+2771,Alguire Ave
+2772,Charlotte St
+2773,Doucet St
+2774,Blair St
+2775,Tom Quinn Pl
+2776,Silver Creek Rd
+2777,Applefield Crt
+2778,Point West Bay
+2779,Trailside Cres
+2780,Prairie Oaks Cove
+2781,Sandpiper Dr
+2782,Hallama Dr
+2783,Stormont Dr
+2784,Denman Cres
+2785,West Lake Cres
+2786,Salisbury Cres
+2787,Cercle Moliere
+2788,Jeannette Bay
+2789,Lark Ridge Way
+2790,Brentlawn Blvd
+2791,Davis Rd
+2792,Black Rock Pl
+2793,Laura St
+2794,Pately Cres
+2795,Becontree Bay
+2796,Willowbend Cres
+2797,Canoe Bay
+2798,Gables Crt
+2799,McCrossen St
+2800,Cattail Cove
+2801,Canvasback Cove
+2802,Petersfield Pl
+2803,Blackwood Bay
+2804,Silver Pines Crt
+2805,Louisiana Pl
+2806,Julien Pl
+2807,Nuffield Pl
+2808,Prescot Rd
+2809,Charlotte Rd
+2810,Bentwood Bay
+2811,Chesham Cove
+2812,Bruton Pl
+2813,Placid Cove
+2814,Northmount Cove
+2815,Vintage Hills Crt
+2816,Discovery Pl
+2817,Jack Kolt Pl
+2818,Chernichan Dr
+2819,Gabrielle Roy Pl
+2820,Waters Dr
+2821,Paris St
+2822,Skinner Rd
+2823,Low Lane
+2824,Didcote Dr
+2825,Lorimer Lane
+2826,Buhr Blvd
+2827,Bannister Rd
+2828,McConnell Rd
+2829,Fourth Ave
+2830,Third Ave
+2831,Fifth Airport Ave
+2832,Seventh Ave
+2833,Canso St
+2834,Sabre Cres
+2835,Margolis Pl
+2836,Comet St
+2837,Argus St
+2838,Garvie Walk
+2839,Weatherstone Pl
+2840,Ashdale Ave
+2841,Brookfield Cres
+2842,Balcom Cove
+2843,Sunkist Cove
+2844,Piper Pl
+2845,Chaffey Pl
+2846,Princess Royal Walk
+2847,Winfield Way
+2848,Sarcee Cove
+2849,Beaumont Bay
+2850,Jorowski Cove
+2851,Cardero Pl
+2852,Sylvan Way
+2853,Howe Ave
+2854,Charleston St
+2855,Daman Farm Rd
+2856,Larry Vickar Dr E
+2857,East St
+2858,Lexington Pk
+2859,Flora Pl
+2860,Morello Bay
+2861,Enterprise Dr
+2862,Rosewood Pl
+2863,Cedar Pl
+2864,Abercorn Grove
+2865,Girdwood Cres
+2866,Grassington Bay
+2867,Rillwood Pl
+2868,Maruca Pl
+2869,Brunka Pl
+2870,Claude Mongeau Pl
+2871,Tedham Crt
+2872,Tara-lee Cove
+2873,Howard Kendel Pl
+2874,Markwood Pl
+2875,Amberwood Pl
+2876,West Springs Cove
+2877,Lerwick Bay
+2878,Sam Sorokin Pl
+2879,Harry Lehotsky Cove
+2880,Tamarisk Cove
+2881,Meghan Cove
+2882,Timmerman Pl
+2883,Alumni Lane
+2884,Laurent Cove
+2885,Minerva Ave
+2886,Davis Cres
+2887,Hagen Dr
+2888,Bluewater Cres
+2889,Ericsson Bay
+2890,Robert Blaikie Pl
+2891,Summerhill Pl
+2892,Harvey Pl
+2893,Deering Close
+2894,Delta Pl
+2895,Service 3 Rd N
+2896,Domia Pl
+2897,Windsong Pl
+2898,Altomare Pl
+2899,Morongo Cove
+2900,Comdale Ave
+2901,Curry Pl
+2902,Service 2 Rd N
+2903,Springwood Dr
+2904,Grande Pointe Rd
+2905,Balham St
+2906,Haresford Cres
+2907,Shadyside Dr
+2908,Camelot Crt
+2909,Bramwell Ave
+2910,Frobisher
+2911,Silverdale Cres
+2912,Shay Cres
+2913,Sierra Pl
+2914,Surrey Pl
+2915,Sunburst Cres
+2916,Sonora Cres
+2917,Sanger Pl
+2918,Dupuy Ave
+2919,Spine Pl
+2920,Sandale Dr
+2921,Hector Bay E
+2922,Corbett Dr
+2923,Rougeau Ave
+2924,Festival Dr
+2925,Pleasant Bay
+2926,Leisure Bay
+2927,Linden Park Bay
+2928,Courchaine Rd
+2929,Ken Oblik Dr
+2930,Loudoun Rd
+2931,Manipogo Bay
+2932,Station Rd
+2933,Service 3 Rd S
+2934,Conifer Cres
+2935,Barona Cove
+2936,PR 330 PR
+2937,Bibeaudel Pl
+2938,Verrier Pl
+2939,Cleveland St
+2940,Wolf Ave
+2941,Lambert St
+2942,Charette St
+2943,Public Rd
+2944,La Grave St
+2945,Gibbs St
+2946,Jean Louis Rd
+2947,Delorme Pl
+2948,Covent Rd
+2949,President's Crt
+2950,Service Rd Rd
+2951,Pirson Cres
+2952,Nolin Pl
+2953,Paul Blvd
+2954,Cross Creek Pl
+2955,Greenview Rd
+2956,Perreault Ave
+2957,Ruines du Monastere
+2958,Point West Way
+2959,Du Couvent Ave
+2960,Gatineau Bay
+2961,Mellish Ave
+2962,Lomond Blvd
+2963,Lestang St
+2964,Gendreau Ave
+2965,Payment St
+2966,Nolin Ave
+2967,Cherry Cres
+2968,Coral Cres
+2969,Calpine Pl
+2970,Arden Ave
+2971,Big Bluestem Rd
+2972,Nordic Heights Blvd
+2973,Mountain Avens Lane
+2974,Indra Cres
+2975,Platt St
+2976,Mayer Dr
+2977,Coralberry Ave
+2978,Vincent Massey Blvd
+2979,Argonne Bay
+2980,Malwa Cove
+2981,Green Valley Bay
+2982,Heroic Pl
+2983,Walter Still Cove
+2984,Ridgedale Cres
+2985,Linton Lane
+2986,Inspiration Pl
+2987,Mara Pl
+2988,Eau-Claire Dr
+2989,Birdsong Lane
+2990,Lloyd Mckinnon Way
+2991,Snowy Owl Cres
+2992,Stoneknife Cres
+2993,David George Dr
+2994,Werrell Cres
+2995,Malden Close
+2996,Primrose Cres
+2997,Miramonte Cove
+2998,Huron Ave
+2999,Macklin Ave
+3000,Attache Pl
+3001,Wynyard Bay
+3002,Service 5 St S
+3003,Service 4 St S
+3004,Technology Trail
+3005,Service 2 St NW
+3006,Service 3 St NW
+3007,Lukanowski Pl
+3008,McMahon Pl
+3009,Molgat Ave
+3010,Scouter's Lane
+3011,Bennett Ave
+3012,Kenaston Common Dr
+3013,Payworks Way
+3014,Roslyn Cres
+3015,Ashcroft Pt
+3016,Bender Bay
+3017,Nikki Lane
+3018,Odessa Cove
+3019,Nyree Cove
+3020,Lakebourne Pl
+3021,Calvert Close
+3022,Fair Acres Cove
+3023,Mike Ruta Crt
+3024,Grady Bend Pl
+3025,Riverhaven Grove
+3026,Gimli Pl
+3027,Carina Cove
+3028,Deepwater Cove
+3029,Ansell Crt
+3030,Brooks Cove
+3031,Dvoras Cove
+3032,Carr Close
+3033,Greenfield Cove
+3034,Samantha Pl
+3035,Brighton Crt
+3036,Sark Cres
+3037,Iron Gate Pl
+3038,Maranda Pl
+3039,Aspenwood Pl
+3040,Majorca Pl
+3041,Derbyshire Pl
+3042,Sovereign Cove
+3043,Oakburn Pl
+3044,Riga Cove
+3045,Bridgewell Cove
+3046,Oakstone Pl
+3047,Nyberg Pl
+3048,Mitchell Pl
+3049,Waimea Cove
+3050,Warren Pl
+3051,Arrowhead Crt
+3052,Zeglinski Cres
+3053,Celina Cove
+3054,Wellwood Pl
+3055,Cirrus Close
+3056,Tatum Pl
+3057,Stepnuk Pl
+3058,Allan Rouse Cove
+3059,Bellbrook Pl
+3060,Marseilles Close
+3061,Veronica Bay
+3062,Vera Bay
+3063,Reichert St
+3064,Merlon Pl
+3065,Sochie Pl
+3066,Winestock Pl
+3067,Mosselle Pl
+3068,Valhalla Dr
+3069,Hector Bay W
+3070,Cedargrove Cres
+3071,Commercial Ave
+3072,Cheema Dr
+3073,Sawka Bay
+3074,Blossom Bay
+3075,Wildwood A Pk
+3076,Coleraine Cres
+3077,William Johnstone Crt
+3078,Oakhill Pt
+3079,Sheffley Crt
+3080,Erinview Pl
+3081,Browton Pl
+3082,Bronstone Blvd
+3083,Copperstone Cres
+3084,West Perimeter Service Rd
+3085,Pine Bluff Rd
+3086,The Bridle Path
+3087,Windmill Way
+3088,Monterey Rd
+3089,Behnke Rd
+3090,Kenwood Pl
+3091,Courtwood Pl
+3092,High Ridge Rd
+3093,Glencrest Pl
+3094,Bingham Dr
+3095,Shoal Pl
+3096,Edmond Muys Pl
+3097,Lorimer Blvd
+3098,Fitzgerald Cres
+3099,Royal Salinger Rd
+3100,Edinburgh St
+3101,Clarendon Rd
+3102,Mager Dr E
+3103,Newark Rd
+3104,Bloomer Cres
+3105,Warsaw Cres
+3106,Tidal Cove
+3107,Siferts Cove
+3108,Woodbury Dr
+3109,Breakwater Cove
+3110,Chiswell Cove
+3111,Lismer Cres
+3112,Hindle Gate
+3113,Ambleside Blvd
+3114,Thorndale Ave
+3115,Minaki Bay
+3116,PR 241 PR
+3117,Queenston Bay
+3118,Holdsworth Ave
+3119,Mutchmor Close
+3120,Pawnee Bay
+3121,Avondale Rd
+3122,Munnion Rd
+3123,Wakefield Bay
+3124,Beechtree Cres
+3125,Aikman Pl
+3126,Vireo Lane
+3127,River Park Close
+3128,Brabant Cove
+3129,Brockville St
+3130,Tamarac Bay
+3131,Keating Ave
+3132,Newcombe Cres
+3133,Wingham Ave
+3134,Dawson Rd S
+3135,Woodview Bay
+3136,Fitzpatrick Rd
+3137,Sinawik Bay
+3138,Kerslake Pl
+3139,Baytree Crt
+3140,Riverdale St
+3141,Seagrim Rd
+3142,Driscoll Cres
+3143,Buckle Dr
+3144,Grover Hills Lane
+3145,Furlan Blvd
+3146,Selwood Ave
+3147,Dunkirk Pl
+3148,Sony Pl
+3149,Parkroyal Bay
+3150,Pepin Pl
+3151,Coneflower Cres
+3152,Harry Wyatt Pl
+3153,Jaquet Bay
+3154,Surfside Cres
+3155,Bonnycastle Crt
+3156,Lacasa Bay
+3157,Snowberry Cir
+3158,Willson Pl
+3159,Lavalee Rd
+3160,Tipton Crt
+3161,Gnapp Cove
+3162,Castleton Crt
+3163,Treasure Cove
+3164,Epsom Cres
+3165,Red Willow Cres
+3166,Morning Glory Cres
+3167,Inman Ave
+3168,Altamont St
+3169,Chatsworth Pl
+3170,Manbrough Pl
+3171,Pembridge Bay
+3172,Heartleaf Lane
+3173,Edenwood Pl
+3174,Munn Rd
+3175,Mars Dr
+3176,Stonecourt Pl
+3177,Marvan Cove
+3178,Marcoux Pl
+3179,Wellesley Crt
+3180,Maralbo Ave E
+3181,Garwick Cove
+3182,Kerslake Dr
+3183,Red Wing Cove
+3184,Battersea Close
+3185,Viscount Pl
+3186,Wrenville Crt
+3187,Sachet Pl
+3188,Ray Marius Rd
+3189,Black Diamond Blvd
+3190,Driftwood Bay
+3191,Vanscoy Rd
+3192,Miramar Rd
+3193,Burntwood Cres
+3194,Cherwell Rd
+3195,Beck Cove
+3196,Rosemount Bay
+3197,Pintail Pt
+3198,Marina Pl
+3199,Island Cove
+3200,Delmar St
+3201,Cassin Cres
+3202,Leger Cres
+3203,Coral Reef Cove
+3204,Stonebridge Lane
+3205,Baywater Pl
+3206,Somerville Ave
+3207,Kowalsky Cres
+3208,Virginia Pl
+3209,Park Pl W
+3210,Bounty Bay
+3211,Athabasca Trail
+3212,Henry Dormer Dr
+3213,Hazelnut Lane
+3214,Bernadette Ave
+3215,Riviera Ave
+3216,Silver Sage Cres
+3217,Baywood Pl
+3218,Quayside Cove
+3219,Burgundy Cres
+3220,Concord Ave
+3221,Rain Shadow Bay
+3222,Breland Bay
+3223,Lighthouse Pt
+3224,Black Pearl Cove
+3225,Ireton Pl
+3226,Richfield Ave
+3227,Howard Ave
+3228,Paget St
+3229,Camira Way
+3230,Portland Ave
+3231,Neepawa St
+3232,Wildwood J Pk
+3233,McDowell Dr
+3234,Blackmore Ave
+3235,Goldthorpe Cres
+3236,Briar Del Pl
+3237,Carriage House Rd
+3238,Simon Dr
+3239,Newington Pl
+3240,Georges Druwe Cres
+3241,Cactus Cove
+3242,Hedgewood Cove
+3243,Arpin Bay
+3244,Vogan's Run
+3245,Fisette Pl
+3246,Harbours End Cove
+3247,Stonington Bay
+3248,Oriole St
+3249,Huppe Bay
+3250,Norcross Cres
+3251,Brittany Dr
+3252,Ruttan Bay
+3253,Shepton Bay
+3254,Scotswood Dr S
+3255,Manring Cove
+3256,Havelock Ave
+3257,Willowlake Cres
+3258,Newhaven Ave
+3259,Hofsted Dr
+3260,Prestwick Dr
+3261,Greenford Ave
+3262,Vista Ave
+3263,Eastmount Dr
+3264,Gwynne Rd
+3265,Acton Pl
+3266,Peace Rd
+3267,Gull Wing Bay
+3268,John Pelland Rd
+3269,Waller Ave
+3270,Bedard Cres
+3271,Maralbo Ave W
+3272,Tweedsmuir Rd
+3273,Hacault Pl
+3274,McGillivray Pl
+3275,Mount Laurel Cres
+3276,Pevensey Pl
+3277,Berrydale Ave
+3278,Edgemont Dr
+3279,Sandown Pt
+3280,Wildwood I Pk
+3281,Elmridge Cove
+3282,Silverthorn Pl
+3283,Hollington Rd
+3284,Braswell Bay
+3285,Dogwood Cove
+3286,Captains Way
+3287,Palisade Cove
+3288,Loneoak Pl
+3289,Granby Bay
+3290,Winslow Dr
+3291,Willow Lane
+3292,Purple Sage Cres
+3293,Yellow Moon Cres
+3294,Gretna Bay
+3295,Gascon Rd
+3296,Scholberg Lane
+3297,Hastings Blvd
+3298,Leeward Pl
+3299,Brentcliffe Dr
+3300,Ossington Crt
+3301,Dragonfly Crt
+3302,Myles Robinson Way
+3303,Proulx Pl
+3304,Hookway Cres
+3305,Satinwood Pl
+3306,Oakgrove Bay
+3307,St Germain St
+3308,D'arcy Dr
+3309,Mailhiot Rd
+3310,Bathgate Bay
+3311,Grey Owl Pl
+3312,Gaylene Pl
+3313,French St
+3314,Clapham Cove
+3315,Wood Sage Cres
+3316,Cardno Cove
+3317,Phimister Close
+3318,Cromer Bay
+3319,Harradence Close
+3320,Deerpark Dr
+3321,Wildwood D Pk
+3322,Lavenham Cres
+3323,Greenstone Bay
+3324,Daniel St
+3325,Milan St
+3326,Sparling Ave
+3327,Bonita Ave
+3328,Barbara Cres
+3329,Hewitt Cres
+3330,Mager Dr
+3331,Capilan Cove
+3332,Brownell Bay
+3333,Honeybourne Cres
+3334,Oakleigh Pl
+3335,Langton Dr
+3336,Trafford Pk
+3337,Hollyhock Rd
+3338,Crocker Pl
+3339,Pambrun Pl
+3340,Duncan Norrie Dr
+3341,Lowson Cres
+3342,Causeway Bay
+3343,Wicklow Pl
+3344,Forestgate Ave
+3345,Craddock Ave
+3346,Willowmeade Cres
+3347,Rothwell Rd
+3348,Hardman Crt
+3349,Pelican Pt
+3350,Lindmere Dr
+3351,Chippenham Crt
+3352,Riley Cres
+3353,Tod Dr
+3354,Dumontet Cres
+3355,Hawkesbury Cres
+3356,Seel Ave
+3357,River Lane
+3358,Furber Lane
+3359,Rockcliffe Rd
+3360,Hilton St
+3361,Coy Ave
+3362,Ashton Ave
+3363,Beauchemin Ave
+3364,Dunelm Lane
+3365,Fawn Pl
+3366,Peterboro Bay
+3367,Lancaster Blvd
+3368,Lachine Rd
+3369,Orchard Park Blvd
+3370,Barker Blvd
+3371,Devonport Blvd
+3372,Wavell Ave
+3373,Berwick Pl
+3374,McDougall St
+3375,Belair Rd
+3376,Gosford Ave
+3377,Des Hivernants Blvd
+3378,Beaver St
+3379,Corbeil Pl
+3380,Moonbeam Way
+3381,Eastmoor Cove
+3382,Lardon Crt
+3383,Marlene St
+3384,Gleneagles Rd
+3385,Park Pl E
+3386,Harwood Cres
+3387,Beacon Hill Pl
+3388,Sandwalk Crt
+3389,Marwood Cres
+3390,Queensway Cres
+3391,Ridgewood Ave
+3392,Fonseca Pl
+3393,Hallfield Pl
+3394,Addington Bay
+3395,St Louis Rd
+3396,Blackburn Lane
+3397,Matlock Cres
+3398,Oswald Bay
+3399,Fallbrook Bay
+3400,Brereton Rd
+3401,Stinson Ave
+3402,Daventry Pl
+3403,Barrington Ave
+3404,Prominence Pt
+3405,Water Lily Lane
+3406,Talon Bay
+3407,Marshall Cres
+3408,Woodington Bay
+3409,Harbinger Bay
+3410,Breton Bay
+3411,Pinawa Dr
+3412,Rannock Ave
+3413,Foxberry Bay
+3414,Wingate Crt
+3415,Bergman Cres
+3416,Cliffwood Dr
+3417,Alenbrook Bay
+3418,Woodgrove St
+3419,Coopman Cres
+3420,Cadiz Bay
+3421,Cunnington Ave
+3422,Kingswood Ave
+3423,Watson Cres
+3424,Norfolk Ave
+3425,Horseshoe Bay
+3426,Linmar Way
+3427,Sunset Blvd
+3428,Savile Ave
+3429,Brookdale St
+3430,Carlotta Cres
+3431,Briarwood Rd
+3432,Denton Pl
+3433,Pitcairn Pl
+3434,Thurso St S
+3435,Blanche Ave
+3436,St Mark's Pl
+3437,Flynn St
+3438,Garnet Bay
+3439,Cabot Cres
+3440,Fletcher Cres
+3441,Woodcott Pl
+3442,Pynoo Pl
+3443,Beaverbend Cres
+3444,Des Hivernants Blvd N
+3445,Holly Ave
+3446,Lacewing Lane
+3447,Radisson Ave
+3448,Joynson Cres
+3449,Switch Grass Cove
+3450,Copperfield Bay
+3451,Wicklow St
+3452,Kevin Pl
+3453,Stovel St
+3454,Poplarwood Ave
+3455,Riverwood Ave
+3456,Lyon St
+3457,Chalice Pl
+3458,McKellar Dr
+3459,Couture Cres
+3460,Farnham Rd
+3461,Netley St
+3462,Canyon Ridge Cove
+3463,Westlund Way
+3464,Hopwood Dr
+3465,Morrow Ave
+3466,Apex Way
+3467,Apex St
+3468,Crystal Ave
+3469,Blue Mountain Rd
+3470,Springside Dr
+3471,Sandham Cres
+3472,Exmouth Blvd
+3473,Parkin Ave
+3474,Brebeuf Rd
+3475,Sunwood Crt
+3476,Crane Ave
+3477,Kelsey Ave
+3478,Dowker Ave
+3479,Tidewater Bay
+3480,Gauvreau Rd
+3481,De Caigny Cove
+3482,Moore Ave
+3483,Wild Iris Walk
+3484,Oustic Ave W
+3485,Rosemount Ave
+3486,Oustic Ave E
+3487,Cotter Cir
+3488,Charbonneau Cres
+3489,Collingwood Cres
+3490,Westdale Pl
+3491,Steeprock Cove
+3492,Charleston Blvd
+3493,Bakersfield Crt
+3494,Wildwood E Pk
+3495,Shoreview Bay
+3496,Nichol Ave
+3497,Dumbarton Blvd
+3498,Frederick Ave
+3499,Litchfield Blvd
+3500,Dumfries Pl
+3501,Dallner Bay
+3502,Waterbury Dr
+3503,Royse Ave
+3504,Solstice Lane
+3505,Camirant Cres
+3506,Sansregret Crt
+3507,Waterside Cove
+3508,Colindale Cove
+3509,Hartland Cove
+3510,Briar Cliff Bay
+3511,Jewett Bay
+3512,Fultz Blvd
+3513,Sandy Lake Pl
+3514,Strand Cir
+3515,Tralee Pl
+3516,Leander Cres
+3517,Service 2 St SW
+3518,Southridge Dr
+3519,Hazelwood Ave
+3520,Robertson Cres
+3521,Jasmine Close
+3522,Ashwood Cove
+3523,Crimson Way
+3524,Leston Pl
+3525,Southglen Blvd
+3526,Twin Pine Rd
+3527,Simsbury Pl
+3528,Boston Ave
+3529,Ivorywood Cove
+3530,Chesterfield Ave
+3531,Deer Run Dr
+3532,Riviera Cres
+3533,Pauline Boutal Cres
+3534,Marksbridge Dr
+3535,Melnick Rd
+3536,Diamond Dust Dr
+3537,Woodford Bay
+3538,Homewood Dr
+3539,Forrester Ave
+3540,Smallwood Crt
+3541,Jacob's Creek Rd
+3542,Kara Cove
+3543,Beddington St
+3544,Easy St
+3545,Whitewood Ave
+3546,Draho Cres
+3547,Eglinton Cres
+3548,Lake Port Pl
+3549,East Lake Dr
+3550,Highgate Cres
+3551,Alpha St
+3552,Budd Rd
+3553,Nutley Cir
+3554,St Albans Rd
+3555,Billingham Pl
+3556,Beckinsale Bay
+3557,Hummingbird Cove
+3558,Carbutt Pl
+3559,Dells Cres
+3560,Baptiste Tourond Rd
+3561,Sandee Bay
+3562,Lionheart Crt
+3563,Victoria Grove
+3564,Charity Lane
+3565,McKall Bay
+3566,Sterling Ave
+3567,Buffalo Pl
+3568,Knightsbridge Dr
+3569,Royal Crest Dr
+3570,Chokecherry Cove
+3571,Peppertree Pl
+3572,Montpelier Pt
+3573,Carlyle Cres
+3574,Prudhomme Bay
+3575,Grand Oaks Cove
+3576,Masefield Pl
+3577,Prychitko Pl
+3578,Jade Pl
+3579,Regis Dr
+3580,Dunkley St
+3581,Grimsby Pl
+3582,Scotsborough Pl
+3583,Oakridge Bay
+3584,Fall Ridge Rd
+3585,Chevrier Blvd
+3586,Quinns Cove
+3587,Marinus Pl
+3588,Rillwillow Pl
+3589,English Pl
+3590,Wapta Cres
+3591,Polydore Rd
+3592,Killarney Ave
+3593,Prairie Sky Dr
+3594,Brentwood Ave
+3595,Harbour Bay
+3596,St Edmund's Bay
+3597,Alanmore Crt
+3598,Orford Cres
+3599,Reese Cove
+3600,Healy Cres
+3601,Greensboro Sq
+3602,Greensboro Bay
+3603,Aurora St
+3604,Parkwood Pl
+3605,Lake Village Rd
+3606,Pelham Rd
+3607,Barlow Cres
+3608,Moncrief Lane
+3609,Langdale Way
+3610,Rockford Pl
+3611,Everingham Bay
+3612,Longford Ave
+3613,Bardsley Pl
+3614,Ghent Cove
+3615,Waterton Dr
+3616,Peregrine Pt
+3617,Sauve Cres
+3618,Weeping Willow Dr
+3619,Trapper Lane
+3620,McMurray Bay
+3621,Brendalee Bay
+3622,Compton Pl
+3623,Drew St
+3624,Morningside Dr
+3625,Alumni Pl
+3626,Karen Irvine Cres
+3627,Henry Pehrson Cove
+3628,Shier Dr
+3629,Beachham Cres
+3630,Dacquay Cres
+3631,Woodchester Pl
+3632,Hammersmith Rd
+3633,Mansfield Cres
+3634,Newmarket Blvd
+3635,McNulty Cres
+3636,Kotelko Dr
+3637,McNulty Pl
+3638,West Park Pl
+3639,St Hilaire Pl
+3640,Burnhill Bay
+3641,Whalers Cove
+3642,Faraway Lane
+3643,Oberlin Rd
+3644,Ramblewood Rd
+3645,Appletree Cres
+3646,Overwater Cove
+3647,Kinrade Pl
+3648,Aimes Rd
+3649,Sioux Rd W
+3650,Quantrell Bay
+3651,Roseglen Cres
+3652,Bessboro St N
+3653,Hawkwood Gate
+3654,Radburn Pl
+3655,Shearwater Bay
+3656,Lambeth Rd
+3657,Mulligan Bay
+3658,Harry Collins Ave
+3659,Hazelwood Cres
+3660,Clarence Ave
+3661,Hyatt Pl
+3662,Metz St
+3663,Harlesden Dr
+3664,Edge Park Cres
+3665,Highpark Dr
+3666,Leeds Ave
+3667,Rose Lake Crt
+3668,Shade Tree Crt
+3669,Queen's Park Cres
+3670,McGill Ave
+3671,Tulane Bay
+3672,Florian Pl
+3673,Brambleforde Cres
+3674,Cummings Cres
+3675,Thetford Pl
+3676,Boone Pl
+3677,Grierson Ave
+3678,Sigma Ave
+3679,Lakepointe Rd
+3680,Saxon Bay
+3681,Abbeydale Cres
+3682,Torrington Rd
+3683,Siskin Bay
+3684,Sheldon Dr
+3685,Westwater Dr
+3686,Wyoming St
+3687,Maligne Way
+3688,Crestmont Dr
+3689,Powder Ridge Dr
+3690,Bankfield Cres
+3691,Sunbury Pl
+3692,Wadham Bay
+3693,Ainsworth Pl
+3694,Cypress Ridge
+3695,Suzanne Bay
+3696,Spillett Cove
+3697,Michaud Cres
+3698,Abington Rd
+3699,Vermette Pl
+3700,Singleton Crt
+3701,Lake Fall Pl
+3702,Inniscross Pl
+3703,Farnsworth Cres
+3704,Summerside Ave
+3705,Wayfield Dr
+3706,St Dunstan's Bay
+3707,Willowgrove Rd
+3708,Deer Ridge Bay
+3709,Inverary Bay
+3710,Raphael St
+3711,Elsey Rd
+3712,Yorkwood Dr
+3713,Blue Spruce Cres
+3714,Sandralin Bay
+3715,Geneva Lane
+3716,Cathurst Pl
+3717,Bunton Crt
+3718,Forest Lake Dr
+3719,Highcastle Cres
+3720,Millbank Ave
+3721,Caymen Crt
+3722,Bigstone Pl
+3723,Burgess Ave
+3724,Hazel Park Dr
+3725,De L'eglise Ave
+3726,Broadridge Bay
+3727,Lamirande Pl
+3728,Champagne Cres
+3729,Forest Creek Rd
+3730,Rowntree Ave
+3731,Dubois Pl
+3732,Loewen Pl
+3733,Barkwood Bay
+3734,Appleby Cove
+3735,Berry Hill Rd
+3736,Cedar Ridge Cove
+3737,Colebrook Dr
+3738,Birchleaf Pt
+3739,Hawkstone St
+3740,Temple Bay
+3741,Ed Spencer Dr
+3742,Carrigan Pl
+3743,Boulton Bay
+3744,Manchester Blvd N
+3745,Greencrest Ave
+3746,Clerkenwell Bay
+3747,Chancery Bay
+3748,Clovercrest Bay
+3749,Harding Cres
+3750,Cotswold Pl
+3751,Sabourin Pl
+3752,Donridge Dr
+3753,Everglade Pl
+3754,Royal Oak Dr
+3755,01 Service Rd
+3756,Laurent Pl
+3757,Villa Maria Pl
+3758,Hughes Cres
+3759,Northwater Bay
+3760,Beauchamp Bay
+3761,Douglas Henning Bay
+3762,Peloquin Bay
+3763,PR 210 PR
+3764,Grey Oaks Cove
+3765,Blue Oaks Cove
+3766,Chrypko Dr
+3767,Fairland Cove
+3768,Yorkvalley Way
+3769,Barrmill Rd
+3770,Kilroy St
+3771,Elm Forest Crt
+3772,Northern Lights Dr
+3773,De Vos Rd
+3774,Wild Rose Crt
+3775,Viking Rd
+3776,Olafson Ave
+3777,Bayridge Ave
+3778,Kellendonk Rd
+3779,Afton Rd
+3780,Park East Dr
+3781,Prestwood Pl
+3782,Blackbird Pl
+3783,Stoney Creek Pt
+3784,Rose Garden Cres
+3785,Rooke Ave
+3786,Birmingham Pl
+3787,Southwalk Bay
+3788,Hackmore Cres
+3789,Seniuk Rd
+3790,Kosty Lane
+3791,Tillbrook Pl
+3792,South Perimeter Service Rd N
+3793,Leclair Pl
+3794,Berard Way
+3795,Gosselin Bay
+3796,St Gabriel Ave
+3797,Second Ave
+3798,Sixth Ave
+3799,La Barriere St
+3800,Ducharme Ave
+3801,Bonin Bay
+3802,Campeau St
+3803,St Therese Ave
+3804,Adelina Gregoire Pl
+3805,Waterstone Dr
+3806,Francois Muller Pl
+3807,Dennis Bay
+3808,Glenbrook Cres
+3809,Macbell Rd
+3810,Lipsett Cres
+3811,Isleview Pl
+3812,Shelby Cove
+3813,Eb Claydon Rd
+3814,Firbridge Cres
+3815,Cadboro Rd
+3816,Stellarton Cres
+3817,D'orsay Pl
+3818,Deerfield Pl
+3819,Gadwall Pl
+3820,Audubon Pl
+3821,Syracuse Cres
+3822,Cavendish Crt
+3823,Sloane Cres
+3824,Vance Pl
+3825,Westmoreland Rd
+3826,Lakedale Pl
+3827,Manahan Ave
+3828,Southfields Dr
+3829,Brixton Bay
+3830,Guernsey Lane
+3831,Sumka Rd
+3832,Mestre Pl
+3833,Penwarden Cove
+3834,Carolyn Bay
+3835,Aintree Cres
+3836,Meadow Ridge Dr
+3837,Calder Bay
+3838,Glenacres Cres
+3839,Valence Ave
+3840,Malmsbury Ave
+3841,Millstream Way
+3842,Southlawn Stroll
+3843,Burbank Pt
+3844,Salem Pl
+3845,Westbourne Cres
+3846,Hallfield Bay
+3847,Higham Bay
+3848,Whitkirk Pl
+3849,Cyril Pl
+3850,Mangrove Close
+3851,Lakeland Pl
+3852,Kingsclear Dr
+3853,Fulton St
+3854,Hochman Ave
+3855,Lanyon Dr
+3856,Allbutt Pl
+3857,Stockton Pl
+3858,Lake Green Pl
+3859,Apple Hill Rd
+3860,Thornewood Ave
+3861,Everden Rd
+3862,Erindale Cres
+3863,West Perimeter Service Rd W
+3864,Nakomis Bay
+3865,Abbotsford Cres
+3866,Parkside Dr
+3867,Iowa St
+3868,Wethersfield Rd
+3869,Hillmartin Dr
+3870,Craigmohr Dr
+3871,Millikin Rd
+3872,Michigan Ave
+3873,Poole Cres
+3874,Caribou Cres
+3875,Hemmingwood Crt
+3876,Newdale Ave
+3877,Cedar Glen Rd
+3878,April St
+3879,Swansea Cove
+3880,Avila Ave
+3881,Ancaster Gate
+3882,Quincy Bay
+3883,Serino Pl
+3884,Georgetown Dr
+3885,Chaikoski Crt
+3886,Poitras Pl
+3887,Carnaby Pl
+3888,Goldenrod Cove
+3889,Ashford Dr
+3890,Amersham Cres
+3891,Sedo Dr
+3892,Southwick Close
+3893,Yager Cove
+3894,Hedgestone Cres
+3895,Darwin St
+3896,Queensbury Bay
+3897,Rivergate Dr
+3898,Meadowbank Rd
+3899,Burnley Pl
+3900,Farmingdale Blvd
+3901,Fairhaven Rd
+3902,Ridgebury Pl
+3903,Phantom Ridge Rd
+3904,Huntingdale Rd
+3905,Westchester Dr
+3906,Tangle Ridge Cres
+3907,Lands End Cove
+3908,Lucerne Pl
+3909,Tallgrass Cres
+3910,Two Mile Rd
+3911,Acadia Bay
+3912,Walker Crt
+3913,Sandy Cove
+3914,Gillingham Ave
+3915,Blue Wing Pl
+3916,Kingfisher Cres
+3917,Rochester Ave
+3918,Thornhill Bay
+3919,Colbourne Dr
+3920,Knotsberry Bay
+3921,Vale Pl
+3922,Kelly Pl
+3923,Holborn Pl
+3924,Lakeglen Dr
+3925,Santa Clara Cres
+3926,Sioux Rd
+3927,Ramblewood Rd N
+3928,Vesper Crt
+3929,Evesham Key
+3930,Osgoode Pl
+3931,Tolcross Gate
+3932,Marygrove Cres
+3933,Agassiz Dr
+3934,Glengarry Dr
+3935,Abbotsfield Dr
+3936,Wedgewood Dr
+3937,Hidden Ridge Cove
+3938,Harrogate Bay
+3939,Settlers Rd
+3940,Greendell Ave
+3941,Sundial Cres
+3942,Wales Ave
+3943,Brixford Cres
+3944,Frigate Bay
+3945,Waldport Bay
+3946,Drayton Bay
+3947,Bow Water Dr
+3948,Middlesbrough Cove
+3949,Redpoll Pl
+3950,Robert Bockstael Dr
+3951,Lodgepine Bay
+3952,Brian Monkman Bay
+3953,Baylor Ave
+3954,Larkin Cove
+3955,Greyfriars Rd
+3956,Ryerson Ave
+3957,Dudley Cres
+3958,Hill Grove Pt
+3959,Galsworthy Pl
+3960,Manby Ave
+3961,Christopher Cove
+3962,Wainwright Cres
+3963,Tiverton Bay
+3964,Southbend Cres
+3965,Monticello Rd
+3966,Spindlestone Gate
+3967,Briarbrook Bay
+3968,Lacroix Bay
+3969,Providence Pl
+3970,Ravensden Dr
+3971,Morton Bay
+3972,Sidney Smith St
+3973,Bluestem Cove
+3974,Stonehaven Close
+3975,Nicollet Ave
+3976,Bonavista Pl
+3977,McNulty Cove
+3978,Ronse Cove
+3979,Yarmouth Cove
+3980,Osprey Pl
+3981,Copper Meadow Dr
+3982,Lyric Lane
+3983,Glenthorne Cres
+3984,Cherry Ridge Lane
+3985,Nordstrom Dr
+3986,Princewood Rd
+3987,St Michael Rd
+3988,Wakopa St
+3989,Thurston Bay
+3990,West Plains Dr
+3991,Eaglemount Cres
+3992,Foxmeadow Dr
+3993,Bramton St
+3994,Linden Terrace Way
+3995,Colby Ave
+3996,Vielliers Pl
+3997,Mapleridge Ave
+3998,Shore St
+3999,Gobert Cres
+4000,Dalemore Lane
+4001,Caledon Rd
+4002,Waterhouse Bay
+4003,PR 300 PR
+4004,Park West Dr
+4005,Phil-chris Way
+4006,Ralston Cres
+4007,Shillingstone Rd
+4008,Sheffield Rd
+4009,Sanctuary Rd
+4010,Lakelea Pl
+4011,Harrison Rd
+4012,Wyper Rd
+4013,Kilburn Pl
+4014,Coombs Dr
+4015,Manor Haven Dr
+4016,Pincarrow Rd
+4017,Maitland Dr
+4018,Caron Ave
+4019,Rinella Pl
+4020,Laurier St
+4021,Softley Rd
+4022,Dewdney Ave
+4023,Olivia St
+4024,Paulin St
+4025,Nemy Cres
+4026,Peter Glacken Pl
+4027,Arthur Creak Dr
+4028,Goodridge Cres
+4029,Lydia St
+4030,Harvard Ave E
+4031,Birch Grove
+4032,PR 207 PR
+4033,Visionary Cove
+4034,Fieldhouse Way
+4035,Cree Cres
+4036,Girard St
+4037,Prymak Pl
+4038,Whittier Ave W
+4039,Kingsford Pl
+4040,Gallant Cove
+4041,Armoury Ave
+4042,Kearney St
+4043,Redfern Rd
+4044,Tyne Ave
+4045,Walden Cres
+4046,Grace St
+4047,Audette Dr
+4048,Inwood Cres
+4049,Harvlong Ave
+4050,Villeneuve Blvd
+4051,Lethbridge Ave
+4052,Harvard Ave W
+4053,Beachside Bay
+4054,Lusted Ave
+4055,Castle Ave
+4056,Bill Dance Dr
+4057,Dowling Ave W
+4058,Craglea Corner
+4059,Thornton Ave
+4060,Pandora Ave W
+4061,Hickory Wood Pl
+4062,Rosseau Ave E
+4063,Camrose Bay
+4064,Galt Ave
+4065,PTH 15 PTH
+4066,Gladstone St
+4067,Shields St
+4068,Stoney Lake Bay
+4069,Donna Wyatt Way
+4070,Whiteshell Ave
+4071,Barber St
+4072,Chalmers Ave E
+4073,Schultz St
+4074,Amundsen Bay
+4075,Alloway Ave
+4076,Goulet Pl
+4077,Rougeau Garden Dr
+4078,Danakas Dr
+4079,Shipley Crt
+4080,Service 1 St SW
+4081,Hayes St
+4082,Argus Rd
+4083,George Barone Bay
+4084,Meadow Gate Dr
+4085,Newman Ave W
+4086,Sturgeon Access
+4087,Frances St
+4088,Gertie St
+4089,Sonnichsen Pl
+4090,Des Intrepides Prom
+4091,Riverbend Cres
+4092,Richmond Way
+4093,Gelley Cove
+4094,Miami Pl
+4095,Flanders Pl
+4096,Rick Boychuk Bay
+4097,Beaulieu St
+4098,Giroux St
+4099,Paisley Pl
+4100,Hillary Bay
+4101,Carberry Cres
+4102,Duncan St
+4103,Hedges Bay
+4104,Kootenay Cres
+4105,Hollyburn Rd
+4106,Dohaney Cres
+4107,Park Cir
+4108,Kirby Dr
+4109,Vesel Ave
+4110,Knappen Ave
+4111,Yelle St
+4112,McTavish St
+4113,Bissett Cres
+4114,Barry Ave
+4115,Makinak Bay
+4116,Courageous Cove
+4117,Van Slyk Way
+4118,Naskapi Cres
+4119,Highwood St
+4120,George Reshaur Bay
+4121,Wilmot Pl
+4122,Greenway Cres W
+4123,Tracy Cres
+4124,Wendilene St
+4125,Sabine Cres
+4126,Balaban Pl
+4127,Trudell Bay
+4128,Topaz Rd
+4129,Greyhawk Cove
+4130,Aspen Hill Pl
+4131,Milt Stegall Dr
+4132,Rosseau Ave W
+4133,McCutcheon St
+4134,Rupert Ave
+4135,Yarwood Ave
+4136,Thomas Ave
+4137,Peter Sosiak Bay
+4138,Best St
+4139,Mill St
+4140,Acheson Dr
+4141,Denson Pl
+4142,Sayer Ave
+4143,Heaton Ave
+4144,Kent St
+4145,Nevens Bay
+4146,William Gibson Bay
+4147,Emily St
+4148,Cloverdale Cres
+4149,Amy St
+4150,Starlight Dr
+4151,Brelade St
+4152,Kanata St
+4153,Marcus Pl
+4154,Dr. Michael K. Grace Lane
+4155,Norwich Ave
+4156,Jeanne D'arc St
+4157,Picardy Pl
+4158,Jameswood Dr
+4159,Kavanagh St
+4160,Theo. Nuytten St
+4161,Einarson Ave
+4162,Dupont St
+4163,Keats Way
+4164,Holden St
+4165,Eagleridge Crt
+4166,Stewin Ave
+4167,Wesley Ave
+4168,Nugent Rd
+4169,Carriage Bay
+4170,Foxborough Rd
+4171,Thames Ave
+4172,Tackaberry Way
+4173,Stan Schriber Cres
+4174,Beacon St
+4175,Thom Ave W
+4176,Crittenden Corner
+4177,Sunway Ave
+4178,Manastyrsky Cove
+4179,Derby St
+4180,Chambers St
+4181,Greenway Cres E
+4182,Southwest Transit Corridor
+4183,Library Pl
+4184,Knudsen St
+4185,Cherrier St
+4186,Bourkewood Pl
+4187,Antoine Ave
+4188,Bantry Pl
+4189,Morgan Cres
+4190,Fournier St
+4191,Warman Rd
+4192,Bellavista Cres
+4193,Valley View Pl
+4194,Furby Pl
+4195,Horetzky St
+4196,Dowling Ave E
+4197,McMeans Bay
+4198,Village Cove
+4199,Pebblewood Lane
+4200,Cooper Ave
+4201,Arctic St
+4202,Braintree Cres
+4203,Reid Ave
+4204,Denver Ave
+4205,De La Cathedrale Ave
+4206,Peltier Ave
+4207,Kay Cres
+4208,Barb Culbertson Cove
+4209,Foot Pl
+4210,McIntyre Ave
+4211,Hearne Ave
+4212,Scott St
+4213,Golden Gate Bay
+4214,Winchester St
+4215,Fawcett Ave
+4216,Emerald Grove Dr
+4217,Red Robin Pl
+4218,Goodyear Ave
+4219,Masson St
+4220,Graham Ave
+4221,Voyageur Ave
+4222,Yale Ave E
+4223,James Ave
+4224,Chrislind St
+4225,Bertha St
+4226,Hebert St
+4227,Brewster St
+4228,Kirkdale St
+4229,Woodlawn St
+4230,Flamingo Ave
+4231,Lyle St
+4232,Braintree Rd
+4233,Brussels St
+4234,Paul Martin Dr
+4235,Tissot St
+4236,Sandylands Pl
+4237,Opal Pl
+4238,Capulet Cres
+4239,Murray Rougeau Cres
+4240,Wolseley Ave W
+4241,Palmerston Ave
+4242,Byrd Ave
+4243,Ridley St
+4244,Fairlane Ave
+4245,Baffin Cres
+4246,Honeyman Ave
+4247,Percy Ave
+4248,Cornwall Ave
+4249,Wolever Ave
+4250,Nicolas Ave
+4251,Grandin St
+4252,Hollingsworth Ave
+4253,Gillies Cres
+4254,Cabana Pl
+4255,Romance Lane
+4256,Rizzuto Bay
+4257,Harriet St
+4258,Whittier Ave E
+4259,Mordaunt St
+4260,John Hirsch Pl
+4261,Bickerton St
+4262,Dr. David Marsh Row
+4263,Ravelston Ave E
+4264,Blue Heron Cres
+4265,George Ave
+4266,Edwin St
+4267,Cranbrook Bay
+4268,Coldstream Ave
+4269,Chadwick Cres
+4270,Hanbury St
+4271,Owen St
+4272,Risbey Cres
+4273,Lombard Ave
+4274,Peake Ave
+4275,Qu'appelle Ave
+4276,Dundas St
+4277,Webster Ave
+4278,Barratt Ave
+4279,Riddle Ave
+4280,McFadden Ave
+4281,Pipit Bay
+4282,Briarlynn Rd
+4283,Woodgreen Pl
+4284,Good St
+4285,Brooklyn St
+4286,Gaboury Pl
+4287,Scotland Ave
+4288,Dudley Ave
+4289,Essex Ave
+4290,St James Bridge
+4291,Pontiac Bay
+4292,McMillan Ave
+4293,Parkview St
+4294,Park Meadows Dr
+4295,Taggart St
+4296,Downs Ave
+4297,Fidler Ave
+4298,Theydon Pl
+4299,Richmond St
+4300,St John Ambulance Way
+4301,Terracon Pl
+4302,Musgrove St
+4303,Cook Rd
+4304,East Gate
+4305,Deer Lodge Pl
+4306,Bryce St
+4307,Bates Ave
+4308,Chapman Rd
+4309,Franklin Ave
+4310,Mockingbird Lane
+4311,Bridgeport Pl
+4312,Dufresne Ave
+4313,Navy Way
+4314,Cactus Jack's Pl
+4315,Shady Shores Dr E
+4316,Borden Ave
+4317,Pembroke Rd
+4318,Leacock Ave
+4319,Hillcrest Ave
+4320,Chandos Ave
+4321,Woodhaven Cres
+4322,Lloyd St
+4323,Lariviere St
+4324,Sumach St
+4325,Ferndale Ave
+4326,Chestnut St
+4327,Garfield St S
+4328,Carmarthen Blvd
+4329,Birkenhead Ave
+4330,Cherokee Bay
+4331,William R. Clement Pky
+4332,Croft Cir
+4333,Rosewarne Ave
+4334,Ellesmere Ave
+4335,Baygrove Pt
+4336,Finchfield Crt
+4337,St Luc St
+4338,Lyonsgate Cove
+4339,Queen St
+4340,Cornish Ave
+4341,Belvidere St
+4342,Guildford St
+4343,Delisle Crt
+4344,Derek St
+4345,Charlottetown Rd
+4346,Bayfield Ave
+4347,Darling St
+4348,Frost Ave
+4349,Sandburg Bay
+4350,St Thomas Rd
+4351,Strathmillan Rd
+4352,Breckenridge Close
+4353,Henday Bay
+4354,Tretheway Close
+4355,Preston Ave
+4356,Vavasour Ave
+4357,Fontaine Cres
+4358,Holland Blvd
+4359,Willow Point Rd
+4360,Orchard Lane
+4361,Whitetail Dr
+4362,Mathers Bay W
+4363,Mathers Bay E
+4364,Royal Park Cres
+4365,Southmoor Rd
+4366,Kingston Cres
+4367,Citation Cir
+4368,Lannoo Dr
+4369,Geraldine Dr
+4370,Keswick Ave
+4371,John Brebeuf Pl
+4372,Ayr Blvd
+4373,Conway St
+4374,Fairway Pl
+4375,Franklin Bay
+4376,Glendale Blvd
+4377,Clarke St
+4378,Freemont Bay
+4379,Falcon Creek Bay
+4380,Fenwick Pl
+4381,Haultain Cres
+4382,Kittiwake Pl
+4383,Coventry Rd
+4384,Kinsbourne Green
+4385,Alder Bay
+4386,Woodstock Lane
+4387,Bard Blvd
+4388,Zylema Cove
+4389,Lennox Ave
+4390,Andover Ave
+4391,Montague Ave
+4392,Malone St
+4393,Sherwood Pl
+4394,Leveque St
+4395,Regal Ave
+4396,Clare Ave
+4397,Stranmillis Ave
+4398,City Ave
+4399,McLean St
+4400,Addison Cres
+4401,Champlain St
+4402,McLaughlin Ave
+4403,Woodhaven Blvd
+4404,Scotswood Dr
+4405,Park Blvd W
+4406,St George Rd
+4407,Park Blvd S
+4408,Donnington Rd
+4409,Mayfield Cres
+4410,Stillwater Rd
+4411,Wynne St
+4412,Watercress Rd
+4413,Riverdale Ave
+4414,Cambrian Cres
+4415,St David Pl
+4416,St Andrew Rd
+4417,Barton Ave
+4418,Chalfont Rd
+4419,Folkestone Blvd
+4420,Glastonbury Blvd
+4421,La Verendrye St
+4422,Sammons Cres
+4423,Maurepas Cres
+4424,Angelo Grande Bocce Way
+4425,Grenadier Dr
+4426,Sinnott St
+4427,Fleury Pl
+4428,Meadowlark Pl
+4429,Ormiston Rd
+4430,Colchester Bay
+4431,Eager Cres
+4432,Savoy Cres
+4433,Calrossie Blvd
+4434,Glen Ave
+4435,Hull Ave
+4436,Eldridge Ave
+4437,Norlorne Dr
+4438,Cam Fontaine Dr
+4439,Weatherdon Ave
+4440,Ebby Ave
+4441,Mountbatten Ave
+4442,William Marshall Way
+4443,McCallum Cres
+4444,Princeton Blvd
+4445,Pilgrim Ave
+4446,Don Ave
+4447,Glasgow Ave
+4448,Sunnyside Blvd
+4449,Fifth Ave
+4450,St Charles St
+4451,Aldrich Ave
+4452,Dromore Ave
+4453,Boreham Blvd
+4454,Erlandson Dr
+4455,Girton Blvd
+4456,Addison Ave
+4457,Gauthier Ave
+4458,Overton St
+4459,Bishop's Lane
+4460,Hethrington Ave
+4461,Westboine Pl
+4462,Doncaster St
+4463,Woodward Ave
+4464,Lonsdale Dr
+4465,Montgomery Ave
+4466,Inverness Blvd
+4467,Hunterspoint Rd
+4468,McNaughton Ave
+4469,Jackson Ave
+4470,Amarynth Cres
+4471,Elmvale Cres
+4472,Fleet Ave
+4473,Westgrove Way
+4474,Crestwood Cres
+4475,Varsity View Dr
+4476,Columbus Cres
+4477,Bering Ave
+4478,Ashland Ave
+4479,Boulder Bay
+4480,Longfellow Bay
+4481,Kilmer Ave
+4482,Scalena Pl
+4483,Cora Ave
+4484,Dunraven Ave
+4485,Larchwood Pl
+4486,Emo Ave
+4487,Lorette Ave
+4488,Humboldt Ave
+4489,Taft Cres
+4490,Pender St
+4491,Batchelor Ave
+4492,Marlton Cres
+4493,Northumbria Bay
+4494,Oxbow Bend Rd
+4495,Handsart Blvd
+4496,Southborough Key
+4497,Willow Ave
+4498,Bower Blvd
+4499,Carroll Rd
+4500,Lockston Ave
+4501,Alcrest Dr
+4502,Roger St
+4503,Meadowside Dr
+4504,Chaldecott Cove
+4505,Windham Rd
+4506,Swann Dr
+4507,Vardon Pl
+4508,Pine Valley Dr
+4509,Catfish Creek Cove
+4510,Nighthawk Bay
+4511,Fairbairn Bay
+4512,Augier Ave
+4513,Tellier Pl
+4514,Stack St
+4515,Ubique Cres
+4516,Royalgate Rd
+4517,Clonard Ave
+4518,Kane Ave
+4519,Mount Royal Rd
+4520,Rowand Ave
+4521,Vernon Rd
+4522,Middle Gate
+4523,Winston Rd
+4524,Haig Ave
+4525,Madera Cres
+4526,Rita St
+4527,Wood St
+4528,Walnut St
+4529,Parkdale St
+4530,Garrioch Ave
+4531,Camden Pl
+4532,Optimist Way
+4533,Bernadine Cres
+4534,Foch Ave
+4535,Truro St
+4536,Assiniboine Cres
+4537,Vivian Ave
+4538,Browning Blvd
+4539,Mount Allison Bay
+4540,Garwood Ave
+4541,Collett Cove
+4542,Boyer Ave
+4543,Sparrow Rd
+4544,Carter Ave
+4545,Fisher St
+4546,Paradise Bay
+4547,Bank Ave
+4548,Varennes Ave
+4549,Kinkora Dr
+4550,Mohawk Bay
+4551,Comanche Rd
+4552,Hector Ave
+4553,Laidlaw Blvd
+4554,Paradise Dr
+4555,Pinedale Ave
+4556,Aldine St
+4557,Sandstone Pl
+4558,Pincarrow Pt
+4559,PTH 1 PTH
+4560,Cockburn St N
+4561,Guay Ave
+4562,Pinehurst Cres
+4563,Magnan St
+4564,Gareau St
+4565,Mandeville St
+4566,Athlone Dr
+4567,Bleau Ave
+4568,Bus Loop
+4569,Morier Ave
+4570,Nanton Blvd
+4571,St Catherine St
+4572,Bell Ave
+4573,Bancroft Bay
+4574,Arnold Ave
+4575,Maureen St
+4576,West Ave
+4577,Whitegates Cres
+4578,McQuaker Dr
+4579,Maplewood Ave
+4580,Twain Dr
+4581,Burlington Way
+4582,Claremont Ave
+4583,Summerlands Blvd
+4584,Packard Pl
+4585,Courage Pl
+4586,Hampshire Bay
+4587,Seaton St
+4588,Bole St
+4589,Bruce Ave
+4590,Harmon Ave
+4591,Hallonquist Dr
+4592,Stewart St
+4593,Livinia Ave
+4594,Turner Ave
+4595,Cauchon St
+4596,Golf Blvd
+4597,Greenwood Pl
+4598,Dundurn Pl
+4599,Sara Ave
+4600,Beghin Ave
+4601,Goswell Rd
+4602,Ladywood Dr
+4603,Cornwall Blvd
+4604,Heritage Blvd
+4605,Carlyle Bay
+4606,Edgeland Blvd
+4607,Drake Blvd
+4608,Harrowby Ave
+4609,Applewood Bay
+4610,Park Blvd N
+4611,Southport Blvd
+4612,Hendon Ave
+4613,Mulvey Ave
+4614,Lepine Ave
+4615,Hill St
+4616,Caton St
+4617,Monck Ave
+4618,McBey Ave
+4619,Allard Ave
+4620,Olive St
+4621,Greenacre Blvd
+4622,Braeside Pl
+4623,Lawndale Ave
+4624,Davidson St
+4625,Bristol Ave
+4626,Niverville Ave
+4627,Carriere Ave
+4628,Carnarvan Rd
+4629,Woodrow Pl
+4630,Esselmont Ave
+4631,Nightingale Rd
+4632,Dundurand Ave
+4633,Lewis St
+4634,David St
+4635,Braemar Ave
+4636,Kitson St
+4637,Knox St
+4638,Isbister St
+4639,Kensington St
+4640,Fuller Ave
+4641,De La Morenie St
+4642,Hillary Cres
+4643,Copeland St
+4644,Gowler Rd
+4645,Jack Blick Ave
+4646,Sage Cres
+4647,Hamel Ave
+4648,Ritchot St
+4649,Wexford St
+4650,Raquette St
+4651,Dorchester Ave
+4652,Humber Rd
+4653,Oak Forest Cres
+4654,Holt Dr
+4655,Mabel St
+4656,Bartlet Ave
+4657,Grenfell Blvd
+4658,Blanchard Ave
+4659,Oakdean Blvd
+4660,Leonard Shakespeare Bay
+4661,Kirkfield St
+4662,Wickham Rd
+4663,Harcourt St
+4664,Old Mill Rd
+4665,Gagnon St
+4666,Harris Blvd
+4667,Wiltshire Bay
+4668,Crawford Ave
+4669,De Bourmont Ave
+4670,Dugas St
+4671,Berkshire Bay
+4672,St Boniface Rd
+4673,Binscarth St
+4674,Crammond Pl
+4675,Corliss Cres
+4676,Wagner St
+4677,Milford St
+4678,Macdonald Ave
+4679,Southampton Pl
+4680,Ashburn St
+4681,McMeans Ave E
+4682,Kurylko Cove
+4683,Meade St
+4684,Cameron St
+4685,Sunglow Rd
+4686,Berlin St
+4687,Argyle St N
+4688,Horton Ave E
+4689,Cole Ave
+4690,Darveau St
+4691,Zoe Lane
+4692,Bradford St
+4693,Cub Rd
+4694,Melrose Ave E
+4695,Rorie St
+4696,Bienvenu St
+4697,Blumm Cres
+4698,Victoria Ave W
+4699,Melrose Ave W
+4700,Yale Ave W
+4701,Victoria Ave E
+4702,Lopuck Bay
+4703,Market Ave
+4704,Exbury Pl
+4705,Pinetop Rd
+4706,Helen Mayba Cres
+4707,Uppingham Pl
+4708,Cedarcroft Pl
+4709,McFarlane St N
+4710,Magnolia St
+4711,Harold Ave W
+4712,Manhattan Ave
+4713,Grundy Ave
+4714,Fiorentino St
+4715,Bushnell St
+4716,Crossgate Rd
+4717,Blueridge Bay
+4718,Prince Edward St
+4719,Sandhurst Ave
+4720,Habitat Pl
+4721,Conlin St
+4722,Goodfellow Way
+4723,Larry Vickar Dr W
+4724,Whitehall Blvd
+4725,Sutherland Ave
+4726,Harold Ave E
+4727,Foster St
+4728,Durado Bay
+4729,Alverstone St
+4730,Kildare Ave E
+4731,Blake St
+4732,Bowman Ave
+4733,Long Point Bay
+4734,Langford St
+4735,Dennis Lindsay Rd
+4736,Fireside Cres
+4737,Whyte Ave
+4738,Clyde Rd
+4739,Tonka Pt
+4740,Chaucer Pl
+4741,Acores St
+4742,Chester St
+4743,Lizzie St
+4744,Woodside Cres
+4745,Premier Pl
+4746,Margaret Swann Dr
+4747,Beach Ave
+4748,Stapleton St
+4749,Orum Dr
+4750,Maude St
+4751,Tanya Cres
+4752,Jeffrey Cres
+4753,Bronx Pl
+4754,Marchant Cres
+4755,Garlies St
+4756,Colin Maxwell Bay
+4757,Bonnydoon Pl
+4758,Berens St
+4759,St Martin Blvd
+4760,Edward Ave E
+4761,Golden Boy Lane
+4762,Gwendoline St
+4763,St Claire Blvd
+4764,Reitta St
+4765,Harbison Ave E
+4766,Pike Cres
+4767,Lowery Bay
+4768,Newman Ave E
+4769,Myrtle St
+4770,Martin Ave E
+4771,Bayview Pl
+4772,Slaw Rebchuk Overpass
+4773,Disraeli St
+4774,Sand Point Bay
+4775,Windsor Ave
+4776,Coulter Ave
+4777,Euclid Ave
+4778,Stephens St
+4779,Edward Ave W
+4780,Johnson Ave E
+4781,Northcliffe Dr
+4782,Thom Ave E
+4783,Lancelot Pl
+4784,Union Ave E
+4785,Heatherbloom Rd
+4786,John Neufeld Cres
+4787,McMeans Ave W
+4788,Grove St
+4789,Tweed Ave
+4790,Chelston Gate
+4791,Tyson Trail
+4792,Ralph Ave W
+4793,Eaton St
+4794,William Newton Ave
+4795,Horton Ave W
+4796,Pacific Ave
+4797,Winnipeg Ave
+4798,Desalaberry Ave
+4799,Regina Pl
+4800,Syndicate St
+4801,Patrick St
+4802,Jean Delorme Pl
+4803,Elgin Ave
+4804,Ainsdale Way
+4805,Herbert Ave
+4806,Figaro St
+4807,Zawaly Bay
+4808,Culver St
+4809,Evita Pl
+4810,Kisil Bay
+4811,Lulu St
+4812,Macoun Pl
+4813,Dallenlea Ave
+4814,Lindhurst Ave
+4815,Lisgar Ave
+4816,Callsbeck Ave
+4817,Riverton Ave
+4818,Brewer Cres
+4819,Nora St
+4820,Park Blvd E
+4821,Ryan St
+4822,Bayne Cres
+4823,Leslie Ave
+4824,Mighton Ave
+4825,Hampstead Ave
+4826,Estabrook Cove
+4827,Poplar Ave
+4828,Adamdell Cres
+4829,Parkwater Cres
+4830,Caithness Rd
+4831,North West Perimeter Service Rd N
+4832,Gevaert St
+4833,Government Ave
+4834,Jordan St
+4835,Hewitson Rd
+4836,Mary Andree Way
+4837,Austin St N
+4838,Allenby Cres
+4839,Culross Bay
+4840,Concordia Blvd
+4841,McIntosh Ave
+4842,Rod Black Cres
+4843,Stevenson Rd
+4844,Allan St
+4845,Larche Cres
+4846,Nottingham Ave
+4847,Byars Bay
+4848,Carol Fletcher Row
+4849,Spring Meadow Cres
+4850,Carpathia Rd
+4851,Tabu Ave
+4852,Locksley Bay
+4853,Lacy St
+4854,Yard St
+4855,Trueman St
+4856,Bridgewood Dr
+4857,Dobbie Ave
+4858,Washington Ave
+4859,Treger Bay
+4860,Snowdon Ave
+4861,Rizer Cres
+4862,Jamison Ave
+4863,Merrill Cres
+4864,Henrietta St
+4865,Blaine St
+4866,Electa St
+4867,Gallagher Ave
+4868,Hillock Ave
+4869,Marsden St
+4870,Lynn Lake Dr
+4871,Campion St
+4872,Digby Ave
+4873,Silvia St
+4874,Robin Hood Cres
+4875,Wynten Cres
+4876,Valde Ave
+4877,Service 2 Rd SW
+4878,Jarvis Ave
+4879,Xante St
+4880,Moncton Ave
+4881,Powell Ave
+4882,Warnock St
+4883,Sherman St
+4884,Orange St
+4885,Hoskin Ave
+4886,Winnipeg Ave W
+4887,Dearborn Ave
+4888,Stanier St
+4889,Consol Ave
+4890,Bangor Ave
+4891,Philip Lee Dr
+4892,McPhail St
+4893,Larche Ave W
+4894,Airport Rd
+4895,Kildonan Green Dr
+4896,Union Ave W
+4897,Larche Ave E
+4898,Weedon St
+4899,Tudor Cres
+4900,Gordon Ave
+4901,Prince Rupert Ave
+4902,Timbercrest Crt
+4903,Hespeler Ave
+4904,Beatrice St
+4905,Becker St
+4906,Pascoe Ave
+4907,Kullman St
+4908,Brookshire St
+4909,Glenham Cove
+4910,Tentler St
+4911,McDermot Ave W
+4912,Vine St
+4913,Golis Bay
+4914,Perfanick Dr
+4915,Roy Ave
+4916,Legion Ave
+4917,Roehampton Pl
+4918,Lismore Ave
+4919,Meadow Lake Dr
+4920,Larsen Ave
+4921,Milton St
+4922,Dee St
+4923,Walter Piper Grove
+4924,Ottawa Ave
+4925,Colshort Pl
+4926,Mortimer Pl
+4927,Lechman Pl
+4928,Butterworth Lane
+4929,Siddall Cres
+4930,Bury St
+4931,Sydney Ave
+4932,Filbert Cres
+4933,Tomlinson Ave
+4934,Twickenham Cir
+4935,Brodick Crt
+4936,Wilford Close
+4937,Greenhoven Cres
+4938,Tomkins Bay
+4939,Twin Lakes Dr
+4940,Notley Dr
+4941,Joanna Dr
+4942,Moir Ave
+4943,Williamson Cres
+4944,Trent Ave
+4945,McKelvey St
+4946,Parashin Bay
+4947,Jasper Pl
+4948,Harold Piercy Pl
+4949,Dowhan Cres
+4950,Donalda Ave
+4951,O'meara St
+4952,Hershey St
+4953,John Taylor Pl
+4954,Crozier Ave
+4955,Seymour St
+4956,Neil Pl
+4957,Budden Dr
+4958,Chelsea Pl
+4959,Emslie St
+4960,Blue Horizon Cove
+4961,Winterton Ave
+4962,Whittington Rd
+4963,Bronx Ave
+4964,Midmar Ave
+4965,Bramblewood Crt
+4966,Borealis Bay
+4967,De Jong Cres
+4968,Piccadilly St
+4969,Willowbank St
+4970,Eade Cres
+4971,McCreedy Rd
+4972,Wiens St
+4973,Skowron Cres
+4974,Flett Ave
+4975,Radley Bay
+4976,Schmidt St
+4977,Alfred Ave
+4978,Aluthra Pl
+4979,John Mann Pl
+4980,Ross Ave W
+4981,Cochrane St
+4982,Gallagher Ave W
+4983,Artillery St
+4984,Reay Cres
+4985,Neil Ave
+4986,Roosevelt Pl
+4987,Elkhorn St
+4988,Blantyre Ave
+4989,Rutledge Cres
+4990,Parasiuk Pl
+4991,Hobbs Cres
+4992,Sgt Tommy Prince St
+4993,Sorley St
+4994,Canterbury Pl
+4995,Lincrest Rd
+4996,Ringel Ave
+4997,Copp St
+4998,Seven Oaks Pl
+4999,Chamberlain Ave
+5000,Gilbert Ave
+5001,Hunt Ave
+5002,Hyde Ave
+5003,Parent St
+5004,St John's Ave
+5005,Walter Copp Cres
+5006,Aldershot Blvd
+5007,Melbourne Ave
+5008,Amelia Cres
+5009,Kirkwall Cres
+5010,Anderson Ave
+5011,Luxton Ave
+5012,Silver Fields Lane
+5013,McNichol St
+5014,Galloway St
+5015,Hekla Ave
+5016,Omands Creek Blvd
+5017,Cordite Rd
+5018,Haddow St
+5019,Tu-Pelo Ave
+5020,Filkow Bay
+5021,Cameo Cres
+5022,Lauder Ave
+5023,Eckhardt Ave
+5024,Minnigaffe St
+5025,West St
+5026,Burnett Ave
+5027,Dunbeath Ave
+5028,Muska Bay
+5029,Thornbury Cres
+5030,Robinson St
+5031,Cindy Klassen Way
+5032,Glencoe Ave
+5033,Mac St
+5034,Cox Blvd
+5035,Butler Blvd
+5036,Rupertsland Blvd
+5037,Rupertsland Ave
+5038,Flye Ave
+5039,Chabbert Pl
+5040,Finestone St
+5041,Manthorne Ave
+5042,Manley Ave
+5043,Sumter Cres
+5044,Larchdale Cres
+5045,Avery Dr
+5046,Luxton Pl
+5047,Lawrence St
+5048,Dalton St
+5049,Durness Bay
+5050,College Ave
+5051,Inglis St
+5052,Brazil St
+5053,Buller St
+5054,Colleen Rd
+5055,Railway St
+5056,Luxton Ave W
+5057,Bentley St
+5058,Fearn Ave
+5059,Greene Ave
+5060,Leo Novak St
+5061,Boyd Ave
+5062,Arrow St
+5063,Pritchard Ave
+5064,Bentall St
+5065,Hazel Dell Ave
+5066,Tait Ave
+5067,Walsall St
+5068,Corinne St
+5069,Gainsborough Cove
+5070,Kildarroch St
+5071,Roberta Ave
+5072,Dunrobin Ave
+5073,Troy Ave
+5074,Jones St
+5075,Claus Bay
+5076,Penninghame St
+5077,Oakview Ave
+5078,Monreith St
+5079,Robert Cartwright Pl
+5080,Admiral Ave
+5081,Vryenhoek Cres
+5082,Dahlia Ave
+5083,Benbow Rd
+5084,Birch Point Pl
+5085,Glen Ivy Crt
+5086,Dunits Dr
+5087,Duke St
+5088,Helmsdale Ave
+5089,Baycrest Crt
+5090,Dufort Pl
+5091,Manor House Crt
+5092,Cowan Pl
+5093,Gervais Pl
+5094,Otter Lake Pl
+5095,River Ridge Pl
+5096,Melmar Pl
+5097,Graduate Path
+5098,Ramage Pl
+5099,Regula Pl
+5100,Birchtree Pl
+5101,Malibu Rd
+5102,Poplynn Dr
+5103,Charles Hawkins Bay
+5104,Robertson St
+5105,Atlantic Ave
+5106,Montbrook Rd
+5107,Alwood Cres
+5108,Dunvegan St
+5109,Bannerman Ave
+5110,Sunny Hills Rd
+5111,Matheson Ave
+5112,Roman St
+5113,Sage Wood Ave
+5114,Linden Ave
+5115,Alberhill Cres
+5116,Taunus Dr
+5117,Carruthers Ave
+5118,Charter Dr
+5119,Marble Ave
+5120,Macaulay Pl
+5121,Point Douglas Ave
+5122,De Graff Pl
+5123,Rosewell Pl
+5124,Fraser's Grove
+5125,Mossdale Ave
+5126,De Fehr St
+5127,Mark Pearce Ave
+5128,Kingsdale Rd
+5129,St Moritz Rd
+5130,Jim Smith Dr
+5131,Sanderson Ave
+5132,Edison Ave
+5133,Smithurst St
+5134,Rossmere Cres
+5135,Leighton Ave
+5136,Rowe St
+5137,Channing St
+5138,Alsip Dr
+5139,Muir Rd
+5140,Elaine Pl
+5141,Brian St
+5142,Foyle St
+5143,Christie Rd
+5144,Middlehurst Cres
+5145,Arbor Grove
+5146,Aster Ave
+5147,La Porte Dr
+5148,Scotia Pl
+5149,Maxim Bay
+5150,Sutton Ave
+5151,Iris St
+5152,Fair Pl
+5153,Rachel St
+5154,Magenta Cres
+5155,Solace Key
+5156,Macaulay Cres
+5157,Kairistine Lane
+5158,Larkspur Dr
+5159,Jonathan Cres
+5160,Payne St
+5161,Uxbridge Rd S
+5162,Charles Walk
+5163,Nicholson Cres
+5164,Kimwood Bay
+5165,Elm Grove Dr
+5166,Gardenton Ave
+5167,Green Meadows Ave
+5168,Dafoe Blvd
+5169,Lafleur Pl
+5170,Rushmore Rd
+5171,Bridgewater Cres
+5172,Fairgrove Bay
+5173,Rowandale Cres
+5174,Callum Cres
+5175,Milner St
+5176,Willowdale Pl
+5177,Seven Oaks Ave
+5178,Bluebell Ave
+5179,Teakwood Ave
+5180,Parr St
+5181,Richardson Ave
+5182,Fir St
+5183,Reinhard Pl
+5184,Hartford Ave
+5185,Devon Ave
+5186,Hume St
+5187,Wendon Bay
+5188,Dunlop Ave
+5189,Hutchings St
+5190,Haddon Rd
+5191,Perth Ave
+5192,Barnham Cres
+5193,Belmont Ave
+5194,Cheriton Ave
+5195,Paufeld Dr
+5196,Mattinee Bay
+5197,Colish Dr
+5198,St Anthony Ave
+5199,Forrest Ave
+5200,Hawthorne Pl
+5201,Burrin Ave
+5202,Regatta Rd
+5203,Rowandale Ave
+5204,Church Ave
+5205,Edelweiss Cres
+5206,Birchlynn Bay
+5207,Shelagh Cres
+5208,Kilbride Ave
+5209,Chisholm Dr
+5210,Montcalm Cres
+5211,Kinver Ave
+5212,Hovingham St
+5213,Gemini Ave
+5214,Ostafiew Farm Rd
+5215,Weitzel St
+5216,Clovermead Rd
+5217,Cutler Bay
+5218,Lucas Ave
+5219,Palms Blvd
+5220,Aylmer St
+5221,Clearview Dr
+5222,Pinecrest Bay
+5223,Royal Ave
+5224,Taraska Bay
+5225,Maberley Rd
+5226,Stardust Ave
+5227,Springlea Path
+5228,Royal Cres
+5229,Manford Close
+5230,Forest Cove Dr
+5231,Masterton Cres
+5232,Verbena St
+5233,Monsey St
+5234,Envoy Cres
+5235,Attridge Lane
+5236,Mobile St
+5237,Petriw Bay
+5238,Peony Ave
+5239,Honeywood St
+5240,Torwood Cres
+5241,Brophy Ave
+5242,Strongberg Dr
+5243,Drobot Pl
+5244,Grandview St
+5245,McKay Ave
+5246,John Huyda Dr
+5247,Grandcrest St
+5248,Semple Ave
+5249,Edith Bay
+5250,Sweetwood Bay
+5251,Plymouth St
+5252,Chopin Blvd
+5253,Wiebe's Dr
+5254,Mannerley Way
+5255,Woodcrest Dr
+5256,Madrill Close
+5257,Essar Ave
+5258,Embassy Lane
+5259,Traverse Ave
+5260,Alfred Penner Bay
+5261,Merriwood Ave
+5262,Buttercup Ave
+5263,Roselawn Bay
+5264,Slater Ave
+5265,Newton Ave
+5266,Beauty Ave
+5267,Arrowwood Dr N
+5268,Marcie St
+5269,Carrie Cove
+5270,Claudia Pl
+5271,Marquis Cres
+5272,Huntsman Cir
+5273,Morningmead Walk
+5274,Mallard Way
+5275,Delbrook Cres
+5276,Martindale Pl
+5277,Haggart Ave
+5278,Abraham Bay
+5279,Valewood Cres
+5280,Mansard Close
+5281,Echo Bay
+5282,Zacharias Pl
+5283,Wildes Lane
+5284,Ranch Pl
+5285,Jodonndra Bay
+5286,Duval St
+5287,Grifindale Bay
+5288,Piney Cres
+5289,Playgreen Cres
+5290,Monson St
+5291,Hutton St
+5292,Kenville Cres
+5293,Peters St
+5294,John Black Ave
+5295,Court Ave
+5296,Swiss Bay
+5297,Highland Ave
+5298,McIvor Ave
+5299,Deborah Pl
+5300,Monty Hall Dr
+5301,Sewa Cres
+5302,Kellas St
+5303,Pebblestone Pl
+5304,Galaxy Way
+5305,Hillhouse Rd
+5306,Marnie Pl
+5307,Hathway Rd
+5308,Harewood Close
+5309,Wilfred Knowles Bay
+5310,Canna Blvd
+5311,Douglas Ave
+5312,Holiday Pl
+5313,Drimes Pl
+5314,Stuart Ave
+5315,Manren Cres
+5316,Arthur Wright Way
+5317,Natalie Bay
+5318,Ranch Rd
+5319,Pennefather Bay
+5320,Sunny Morning Rd
+5321,Shadow Hills Cove
+5322,Paramount Rd
+5323,Seaforth Ave
+5324,Findlay Pl
+5325,Stardust Cres
+5326,Meridian Dr
+5327,Wyatt Rd
+5328,Tamarind Dr
+5329,Massena Pl
+5330,Autumnlea Path
+5331,Margaret Ave
+5332,Mathias Ave
+5333,Mount Auburn Bay
+5334,Beeston Dr
+5335,Gilmore Ave
+5336,Petunia St
+5337,Chapman Ave
+5338,Parkway Pl
+5339,Puffin Pl
+5340,Diplomat Dr
+5341,Blechner Dr
+5342,Laurel Leaf Lane
+5343,Standish Pl
+5344,Bunn's Grove
+5345,Harmsworth Dr
+5346,Pennefather St
+5347,Fortier Ave
+5348,Massena Cres
+5349,Alley Az Ave
+5350,Alley Ai St
+5351,Bridgeford Path
+5352,Caslon Pl
+5353,Councillor Bay
+5354,Swiftwater Trail
+5355,Mankato Cres
+5356,Arbroath Dr
+5357,Blackthorne Bay
+5358,Anglia Ave
+5359,Hiddleston Cres
+5360,Foxgrove Ave
+5361,Coatstone Dr
+5362,Knotwood Cres
+5363,Le Peress Ave
+5364,Southview Cres
+5365,Willart Pl
+5366,Cork Ave
+5367,Hanna St
+5368,Winmart Cove
+5369,White Pine Pl
+5370,Hanson St
+5371,Stoneham Cres
+5372,Reiny Dr
+5373,Bonner Ave
+5374,Donald Mcclintock Bay
+5375,Emerson Ave
+5376,Streilein Cres
+5377,Sedona Cres
+5378,Jack Hawthorn Bay
+5379,Oakhurst Cres
+5380,Tully Rd
+5381,Sorokin St
+5382,Sasaki Cres
+5383,Saphire Pl
+5384,Yanofsky Way
+5385,Larter Cres
+5386,Strood Ave
+5387,Edkar Cres
+5388,Pentland St
+5389,Amanda Cres
+5390,Prince Philip Cres
+5391,Kushner Cres
+5392,Ken Wong Bay
+5393,Governor's Crt
+5394,Brambleberry Pl
+5395,Maevista Pl
+5396,Citadel Cres
+5397,Meadowland Dr
+5398,Keith Black Bay
+5399,Tennant Gate
+5400,Boundary Bay
+5401,Penny Lane
+5402,Spruce Thicket Walk
+5403,Mira Gate
+5404,Yukon Ave
+5405,Driftwater Trail
+5406,Pinetree Cres
+5407,Libra St
+5408,Brenner Bay
+5409,Chochinov Ave
+5410,Division Ave
+5411,Willow Walk
+5412,Glenway Ave
+5413,Hearthwood Grove
+5414,John Reeves Pl
+5415,Fernbank Ave
+5416,Peter Herner Bay
+5417,Oneida Pl
+5418,Vega St
+5419,Maplegrove Rd
+5420,Squire Pl
+5421,Danford Dr
+5422,Mariner Cres
+5423,Herron Rd
+5424,Prairie Spring Bay
+5425,Maddin Cres
+5426,Millpond Path
+5427,Park Manor Blvd
+5428,Cail Bay
+5429,Kaur Umber Trail
+5430,Glenboro Pl
+5431,Meadowcrest Bay
+5432,Sandalwood Cres
+5433,Ashmore Dr
+5434,Lavender Bay
+5435,Red River Blvd W
+5436,Gateside Way
+5437,Daman St
+5438,Burnside Way
+5439,Melgund Rd
+5440,Timberwood Trail
+5441,Commonwealth Ave
+5442,Swailes Ave
+5443,Roberts Cres
+5444,Ben Hewak Bay
+5445,Verona Dr
+5446,Vistula Way
+5447,Daylan Marshall Gate
+5448,Cartwright Rd
+5449,Olford Cres
+5450,Riverstone Rd
+5451,William Whiteway Bay
+5452,Chelsea Ave
+5453,Agnes Arnold Pl
+5454,Skrypnyk Cres
+5455,Boxdale Dr
+5456,Cannes Cres
+5457,Eastwood Dr
+5458,PR 213 PR
+5459,Emes Rd
+5460,Garden View Dr
+5461,Elbe Rd
+5462,PR 401 PR
+5463,Holmes Rd
+5464,PR 220 PR
+5465,Trieste Way
+5466,Barneveld Rd
+5467,Maddock Ave
+5468,Arklie Pl
+5469,Massalia Dr
+5470,Phoenix Way
+5471,Sava Way
+5472,Desna Pl
+5473,Poznan Cres
+5474,Chapparal Cres
+5475,Glencairn Rd
+5476,Darbrett Bay
+5477,Ferngrove Walk
+5478,Lyra Gate
+5479,Atlas Cres
+5480,Pennyhill Gate
+5481,Alton Way
+5482,PR 204 PR
+5483,Balgona Rd
+5484,Dana Cres
+5485,Service Road_126
+5486,Silkwood Cres
+5487,Jutland Rd
+5488,Rockmore Rd
+5489,Degner Pl
+5490,Refinery Way
+5491,Degrave St
+5492,Glenella Gdns
+5493,Summerscales Pl
+5494,Goodman Dr
+5495,Clarkleigh Cres
+5496,Lynx St
+5497,Pegasus St
+5498,Sagitta St
+5499,Fireweed Lane
+5500,Raven Rd
+5501,Hominick Pl
+5502,Cantafio Cove
+5503,Jette Cove
+5504,Gottfried Pt
+5505,Torchia Lane
+5506,Twintree Way
+5507,Firestone Dr
+5508,Bear Creek Bay
+5509,Bass Bay
+5510,Crystal Lake Terr
+5511,Mulberry Creek Dr
+5512,Saddle Creek Cove
+5513,Bell Gardens Cove
+5514,Bridgehampton Bay
+5515,Yaleton St
+5516,Florence Rd
+5517,Eastfield Crt
+5518,Englemann Cove
+5519,Alora Cove
+5520,Sparrowhawk Pl
+5521,Eliuk Cove
+5522,Ethan Boyer Way
+5523,Yasmin Ali Cres
+5524,Iqbal Grove
+5525,Flat Creek Lane
+5526,Inez Cross
+5527,Karschuk Bay
+5528,Bracken Gate
+5529,Albright Rd
+5530,Siddiqui Ridge
+5531,Private Road_1534322
+5532,Private Road_1534323
+5533,Skipper Lane
+5534,Gypsum Dr
+5535,Cinnamon Teal Way
+5536,Shortt St
+5537,Bullrush Bay
+5538,Butterfly Way
+5539,Porcupine Cres
+5540,Yolande St
+5541,Woolly Sedge Rd
+5542,Broda Dr
+5543,Sarsprilla Bend
+5544,Chickadee Lane
+5545,Duskywing Rd
+5546,Private Davy Dr
+5547,Bill Briercliffe Dr
+5548,Ken Butchart Cres
+5549,Jim Gauthier Dr
+5550,Whooping Crane Dr
+5551,Thrush St
+5552,Nuthatch Bay
+5553,Plover Pl
+5554,Skylark Lane
+5555,Jontz Cove
+5556,Avior Dr
+5557,Ara Way
+5558,Aquila Rd
+5559,Auriga Lane
+5560,Adara Link
+5561,Mill Rock Rd
+5562,Point Pleasant Pl
+5563,Rambling River Bay
+5564,Treetop Lane
+5565,Lazy Oaks Cove
+5566,Loggerhead Rd
+5567,Brightview Ave
+5568,Emberwell St
+5569,Summerlea Blvd
+5570,Mosaic St
+5571,Dovetail Cres
+5572,Miravale Ave
+5573,Paulette Duguay St
+5574,Plainval Lane
+5575,Ibrahima Diallo Ave
+5576,Westview Park
+5577,Whittier Park
+5578,Whitehorn Cres
+5579,Ullswater Way
+5580,Namarik Way
+5581,Madison St
+5582,Bohemier Trail
+5583,Pavilion Cres
+5584,Lakeview Cove
+5585,King's Park Dr
+5586,Gillson St
+5587,St Vital Park Dr
+5588,Formal Garden Way
+5589,Chancellors Cir
+5590,Powerhouse Rd
+5591,Administration St
+5592,Harbour View Access Rd
+5593,Maintenance St
+5594,Bunn's Creek Park Access
+5595,Ralph Campbell Rd
+5596,Canberra Ave
+5597,Hangar Line Rd
+5598,Service 1 St S
+5599,Freedman Cres
+5600,St. Vital Park West Entrance Dr
+5601,St. Vital Park East Entrance Dr
+5602,Crescent Dr
+5603,Dalton Cres
+5604,Maclean Cres
+5605,Service 2 Rd S
+5606,Service 7 St S
+5607,Service 2 St S
+5608,Service 3 St S
+5609,Sifton Rd
+5610,Cargo Rd
+5611,Allen Dyne Rd
+5612,Nick Laping Way
+5613,Webb Pl
+5614,Intersite Rd
+5615,Air Force Way
+5616,Race Track Rd
+5617,The Promenade
+5618,Moorgate St
+5619,Angood Ave
+5620,Oxford St W
+5621,Furniture Pk
+5622,Roderick St
+5623,Service 1 Rd S
+5624,Rainbow Dr
+5625,Peguis Dr
+5626,PTH 59 PTH
+5627,PTH 6 PTH
+5628,Ruth Cross
+5629,Sheryl McCorrister Way
+5630,Tej Bains Pl
+5631,Zubron Lane
+5632,Oasis Bend
+5633,Bibi Khivi Bend
+5634,West Perimeter Service Rd E
+5635,Scotspine Dr
+5636,Grouse Cres
+5637,Cobble Hill Rd
+5638,Kite Bay
+5639,Youngstown Rd
+5640,Rockland Crt
+5641,Granite Grove Rd
+5642,Stonewalk Pl
+5643,Fossil Creek Cres
+5644,Second St
+5645,Wenzel Rd
+5646,Prince Cove
+5647,Road_01
+5648,Asquith Ave
+5649,Third St
+5650,Vitran Dr
+5651,Samborski Dr
+5652,Farmer Rd
+5653,Hollander Cres
+5654,Burkhart Bay
+5655,Elk Meadow Pl
+5656,Dewar Cove
+5657,Perseus Way
+5658,Confetti Cres
+5659,Kaleida Way
+5660,agimodiere Bv
+5661,outhbound Swest Transitway at Osborne Station
+5662,athgar Av
+5663,israeli Fwy
+5664,anet Rd
+5665,ldgate Rd
+5666,ain St
+5667,Wycombe Place
+5668,nkster Bv
+5669,ed River Bv
+5670,iver Rd
+5671,llice Av
+5672,orth Town Rd
+5673,mber Trail
+5674,indenwood Dr E
+5675,curfield Bv
+5676,averley St
+5677,rassie Bv
+5678,otre Dame Av
+5679,un Valley Dr
+5680,aglewood Dr
+5681,outh Town Rd
+5682,urrows Av
+5683,im Sale Dr
+5684,Waverley Dr
+5685,indenwood Dr W
+5686,hancellor Matheson Rd
+5687,olony St
+5688,ontaine Cr
+5689,Awasisak MÄ“skanow
+5690,horehill Dr
+5691,avell Dr
+5692,ateway Rd
+5693,eadowood Dr
+5694,oray St
+5695,ess Av
+5696,lenlawn Av
+5697,aterson St
+5698,olumbia Dr
+5699,embina Hwy
+5700,eenders Dr
+5701,arker Av
+5702,aturn Bay
+5703,orth Point Bv
+5704,eewatin St
+5705,turgeon Rd
+5706,CarriÃ¨re Av
+5707,Apleglen St
+5708,apleglen Dr
+5709,eaverhill Bv
+5710,binojii Mikanah
+5711,lgin Av
+5712,mpress St
+5713,airn Av
+5714,ing Edward St
+5715,akewood Bv
+5716,lessis Rd
+5717,Doctor Jose Rizal Way
+5718,arden Park Dr
+5719,orydon Av
+5720,estwood Dr
+5721,Murray Av
+5722,sborne St
+5723,TachÃ© Av
+5724,oncordia Av
+5725,tapon Rd
+5726,rbuthnot St
+5727,Murray Rd
+5728,aint Maryâ€™s Rd
+5729,lfred Av
+5730,unkirk Dr
+5731,ath to Bus Stop
+5732,akota St
+5733,aint Mary Av
+5734,urland Av
+5735,outhbound Swest Transitway at Fort Rouge Station
+5736,ast Mint Place
+5737,enaston Bv
+5738,eadmaster Row
+5739,ortage Av
+5740,Robertson Place
+5741,ioneer Av
+5742,andora Av E
+5743,ndefine
+5744,argent Av
+5745,hundering Bison Trail
+5746,Webster Av
+5747,Robertson Cr
+5748,larence Av
+5749,hurch Av
+5750,St. Anne's Rd
+5751,De lâ€™Ã‰glise Av
+5752,airdmore Bv
+5753,Victoria Cr
+5754,srael Asper Way
+5755,ohn Angus Dr
+5756,Robertson Dr
+5757,Victory Place
+5758,ourtwood Place
+5759,askatchewan Av
+5760,e La Seigneurie Bv
+5761,Balfour St
+5762,ing St
+5763,Balfour Av
+5764,ipeline Rd
+5765,aint Anne's Rd
+5766,Transcona Bv
+5767,Omands Creek Bv
+5768,aint James St
+5769,ranscona Bv
+5770,wasisak MÄ“skanow Greenway
+5771,att St
+5772,cGillivray Bv
+5773,pringfield Rd
+5774,olseley Av
+5775,Bissett Cr
+5776,almoral St
+5777,Addison Av
+5778,outhglen Bv
+5779,Desalaberry Av
+5780,ubrey St
+5781,Mager Dr W
+5782,ottonwood Rd
+5783,ulu St
+5784,ellow Ribbon Greenway
+5785,uiring Bay

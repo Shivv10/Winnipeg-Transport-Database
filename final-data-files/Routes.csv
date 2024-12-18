@@ -1,0 +1,194 @@
+RouteID,RouteNumber,RouteName
+1,1,Downtown Spirit
+2,2,Downtown Spirit
+3,3,Downtown Spirit
+4,10,St. Boniface-West Broadway
+5,10,St.Boniface-Wolseley
+6,10,St.Boniface-West Broadway
+7,11,Portage-Kildonan
+8,12,William
+9,14,Ellice-St. Mary's
+10,14,St. Mary's-Ellice
+11,15,Sargent-Mountain
+12,16,Selkirk-Osborne
+13,17,McGregor
+14,18,North Main-Corydon
+15,19,Marion-Logan-Notre Dame
+16,20,Academy-Watt
+17,20,Watt-Academy
+18,21,Portage Express
+19,22,Assiniboia Express
+20,23,Broadway - William
+21,24,Ness Express
+22,24,Ness
+23,25,Ness Super Express
+24,26,Logan - Berry
+25,28,Brookside Express
+26,29,Sherbrook - Stafford
+27,29,Sherbrook
+28,30,Inkster Park Express
+29,31,Keewatin Express
+30,32,North Main Express
+31,32,N.Main Express
+32,33,Maples
+33,34,McPhillips Super Express
+34,35,Maples Super Express
+35,36,Northwest Super Express
+36,37,Richmond Super Express
+37,38,Salter
+38,39,Taylor Park & Ride Express
+39,40,All Seasons Express
+40,41,Henderson Express
+41,42,Plessis Express
+42,43,Munroe
+43,44,Grey
+44,45,Talbot
+45,46,Transcona Express
+46,47,Transcona - Pembina
+47,47,Transcona
+48,48,McMeans Express
+49,49,Dugald
+50,50,Archibald
+51,51,St. Vital Centre - University of Manitoba
+52,51,To U of Manitoba
+53,51,To St. Vital Centre
+54,53,Norwood
+55,54,St. Mary's Express
+56,55,St. Anne's
+57,55,St.Anne's
+58,56,St. Boniface
+59,56,St.Boniface
+60,57,Southdale Express
+61,58,Dakota Express
+62,59,South St. Anne's Express
+63,60,Pembina
+64,61,University Super Express
+65,62,Richmond Express
+66,64,Lindenwoods Express
+67,65,Grant Express
+68,66,Grant
+69,67,Charleswood Express
+70,68,Grosvenor
+71,68,Cr
+72,70,Richmond
+73,71,Arlington
+74,72,72
+75,72,Via Killarney
+76,72,Via Dalhousie
+77,72,to University of Manitoba
+78,72,via killarney
+79,72,To University of Manitoba
+80,74,Kenaston
+81,75,Crosstown E
+82,76,76
+83,76,To U of Manitoba
+84,76,To St.Vital Centre
+85,77,Crosstown N
+86,78,Waverley
+87,78,Crosstown W
+88,79,Charleswood
+89,80,Industrial Express
+90,82,Grace Hospital - Unicity
+91,83,Unicity - Strauss Dr - Murray Industrial Park
+92,83,To Unicity
+93,84,Lindenwoods - Ft. Rouge Station
+94,84,To Whyte Ridge
+95,85,Kildonan Place - N Kildonan
+96,85,To Henderson & Whellams
+97,85,To Kildonan Place
+98,86,Mission Gardens
+99,86,Bridgwater - Ft. Rouge Station
+100,87,Industrial
+101,87,South Transcona - Crossroads Station
+102,88,Inkster Industrial Park - Scotia
+103,88,To Cathedral & Main
+104,89,North Transcona - Kildonan Place
+105,89,To Kildonan Place
+106,89,To N Transcona
+107,90,Kildonan Place - Whellams Lane
+108,90,To N Transcona
+109,90,To Chief Peguis Trail
+110,90,To Henderson & Whellams
+111,91,St. Norbert
+112,92,Crossroads Station - Lakeside Meadows
+113,93,South St. Vital - St. Marys
+114,93,South St. Vital - St. Vital Centre
+115,93,South St. Vital
+116,93,To St. Vital Centre
+117,94,Whyte Ridge - Fort Garry
+118,95,Tuxedo - Riverview
+119,95,to Riverview
+120,95,To Riverview
+121,96,St. Vital Centre - Windsor Park
+122,97,Inkster Industrial Park - Point Douglas
+123,98,Westdale - Grace Hospital
+124,99,Downtown - Misericordia Health Centre - Windermere & Pembina
+125,99,Downtown
+126,137,Richmond Super Express
+127,160,Downtown-UM
+128,161,University Super Express
+129,162,Ft. Richmond-St. Norbert Express
+130,162,Downtown-Fort Richmond (UM)-St. Norbert Express
+131,163,Waverley Heights Express
+132,170,Fort Richmond - St. Norbert
+133,170,Downtown-Fort Richmond (UM)-St. Norbert
+134,180,Industrial Express
+135,181,Whyte Ridge Express
+136,183,Richmond W Express
+137,185,Osborne Village Express
+138,330,Murray
+139,334,Adsum
+140,611,Standby Special
+141,635,Osborne Village
+142,641,Lindenwoods W
+143,642,Lindenwoods E
+144,649,Chevrier
+145,650,McGillivray
+146,662,Richmond
+147,671,Dalhousie
+148,672,Killarney
+149,676,Bridgwater/River Rd
+150,677,Wilkes
+151,690,Industrial
+152,691,Whyte Ridge
+153,693,Waverley Heights
+154,694,Wildwood
+155,BLUE,Route BLUE
+156,BLUE,BLUE
+157,BLUE,To Downtown
+158,BLUE,to St. Norbert
+159,BLUE,University of Manitoba
+160,I310,Wpg Tech English Ctr
+161,S401,Beliveau School
+162,S402,Adolescent Parent Centre
+163,S404,Churchill High
+164,S405,Daniel Mac. School
+165,S406,Garden City E & W
+166,S408,Glenlawn Collegiate
+167,S409,Grant Park High
+168,S410,Jeanne Sauve School
+169,S412,John Pritchard School
+170,S413,John Taylor Collegiate
+171,S414,Kelvin School
+172,S417,Miles Mac School
+173,S419,P. Trudeau - M. MacKay Schools
+174,S420,Oak Park School
+175,S421,St. Johns-RB Russell Schools
+176,S422,Regent Park School
+177,S426,Shaftesbury School
+178,S427,Sisler School
+179,S428,Sturgeon Heights Collegiate
+180,S429,TecVoc & Adult Parent Ctr/TecVoc
+181,S430,Vincent Massey
+182,S430,Viscount Alexander - Vincent Massey
+183,S432,St.John's High School
+184,S433,John Henderson School
+185,S434,William Osler School
+186,S435,West Kildonan Collegiate
+187,S436,Acadia/Fort Richmond Schools
+188,S437,Dakota Collegiate
+189,S439,JH Bruns-Beliveau
+190,S439,JH Bruns
+191,S440,River E-Chief Peguis
+192,S441,Edmund Partridge School
+193,S443,Pembina Trails School
