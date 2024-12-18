@@ -67,9 +67,6 @@ password=<Student or staff number>
 ```
 **Your're all set to explore the Database !!!**
 
-$\\$
-
-$\\$
 
 ### Group Members
 [Shiv Gandhi](https://github.com/Shivv10) \
